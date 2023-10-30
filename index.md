@@ -3,7 +3,7 @@
 
 # sciai-lab's Website
 
-An engaging 1-3 sentence description of your lab.
+We develop principled machine learning methods to solve difficult computer vision problems, with applications mainly from the Life Sciences. 
 
 {% include section.html %}
 
