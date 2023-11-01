@@ -20,7 +20,7 @@ The most universal approach to such predictions relies on quantum mechanics. We 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Check out KineticNet"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -40,7 +40,7 @@ The most universal approach to such predictions relies on quantum mechanics. We 
 
 {% capture text %}
 
-Text 3 
+The team is everything! We live by the maxime "1. Be Nice and 2. Do Great Science" :-) 
 
 {%
   include button.html
