@@ -1,7 +1,7 @@
 ---
 ---
 
-# sciai-lab's Website
+# Scientific Artificial Intelligence
 
 We develop principled machine learning methods to solve difficult computer vision problems, with applications mainly from the Life Sciences. 
 
