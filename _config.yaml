@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: sciai-lab
-subtitle: Scientific Artificial Intelligence Lab, Prof. Hamprecht, IWR, Heidelberg University 
+title: Scientific AI 
+subtitle: Prof. Hamprecht Lab, IWR, Heidelberg University 
 description: Developing principled AI methods to solve hard problems from the natural sciences. 
 header: images/background.jpg
 footer: images/background.jpg
@@ -9,7 +9,7 @@ footer: images/background.jpg
 links:
   email: hamprecht-lab-manager@iwr.uni-heidelberg.de
   orcid: 0000-0003-4148-5043
-  google-scholar: IO62bt0AAAAJ
+  google-scholar: lO62bt0AAAAJ
   github: sciai-lab
 #  twitter: sciai-lab
 #  youtube: sciai-lab
