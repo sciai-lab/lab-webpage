@@ -1,18 +1,18 @@
 # site properties and page defaults
 title: sciai-lab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+subtitle: Scientific Artificial Intelligence Lab, Prof. Hamprecht, IWR, Heidelberg University 
+description: Developing principled AI methods to solve hard problems from the natural sciences. 
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@sciai-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: hamprecht-lab-manager@iwr.uni-heidelberg.de
+  orcid: 0000-0003-4148-5043
+  google-scholar: IO62bt0AAAAJ
   github: sciai-lab
-  twitter: sciai-lab
-  youtube: sciai-lab
+#  twitter: sciai-lab
+#  youtube: sciai-lab
 
 ### jekyll settings
 
