@@ -15,12 +15,12 @@ Our current focus is to develop methods from
 
 Predicting molecular properties is important for a huge range of problems, from biochemistry to drug development. 
 
-The most universal approach to such predictions relies on quantum mechanics. We aim to dramatically speed up these quantum calculations using machine learning methods that respect the fundamental symmetries of the problem. For our latest work in density functional theory, see HERE. 
+The most universal approach to such predictions relies on quantum mechanics. We aim to dramatically speed up these quantum calculations using machine learning methods that respect the fundamental symmetries of the problem. 
 
 {%
   include button.html
   link="research"
-  text="Check out KineticNet"
+  text="Our latest in Density Functional Theory"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
