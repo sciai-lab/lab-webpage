@@ -3,9 +3,7 @@
 
 # Scientific AI
 
-We develop principled AI methods to solve hard problems from the natural sciences. 
-
-Our current focus is to develop methods from 
+We develop principled AI methods to solve hard problems from the natural sciences. Our expertise are fundamental algorithms and their application to complex problems with spatial structure. 
 
 {% include section.html %}
 
@@ -58,5 +56,18 @@ The team is everything! We live by the maxime "1. Be Nice and 2. Do Great Scienc
   image="images/photo.jpg"
   link="team"
   title="Our Team"
+  text=text
+%}
+
+{% capture text %}
+
+We learn a lot from our colleagues, and are proud members of and contributors to these initiatives. (ELLIS, STRUCTURES)
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="Our Network"
   text=text
 %}
