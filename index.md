@@ -1,9 +1,9 @@
 ---
 ---
 
-# Scientific Artificial Intelligence
+# Scientific AI
 
-We develop principled machine learning methods to solve difficult computer vision problems, with applications mainly from the Life Sciences. 
+We develop principled AI methods to solve hard problems from the natural sciences. 
 
 {% include section.html %}
 
