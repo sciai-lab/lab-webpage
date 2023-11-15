@@ -5,7 +5,7 @@ description: Developing principled AI methods to solve hard problems from the na
 header: images/background.jpg
 footer: images/background.jpg
 header-dark: false
-header-light: false
+header-light: true
 
 # site social media and other links
 links:
