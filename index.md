@@ -72,3 +72,12 @@ We learn a lot from our colleagues, and are proud members of and contributors to
   title="Our Network"
   text=text
 %}
+
+{% capture text %}
+
+IWR is a central institute of our university, and a fantastic place where scientists from maths, CS, physics and more meet to develop methods that address some of the hardest problems out there.  
+{% include button.html link="https://typo.iwr.uni-heidelberg.de/home" text="Check out IWR" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/quantum-boat.jpg" link="team" flip=true title="Home, Sweet Home" text=text %}
