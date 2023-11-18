@@ -68,7 +68,7 @@ We learn a lot from our colleagues, and are proud members of and contributors to
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/iwr-schematic.svg"
   title="Our Network"
   text=text
 %}
