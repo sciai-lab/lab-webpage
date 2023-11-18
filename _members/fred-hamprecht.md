@@ -17,7 +17,8 @@ For twenty years, I had fun (and luckily some success) solving problems from ima
 
 What has not changed is my love for methods that have a sound mathematical background such as combinatorial optimization or algebraic graph theory, while being widely applicable and useful in practice. 
 
-I enjoy, and feel most privileged, to be able to work on things unknown, and to teach the next generation of scientists and engineers.
+I enjoy, and feel most privileged, to be able to work on things unknown, and to teach the next generation of scientists and engineers. Luckily, I am blessed with a fantastic lab whose members happen to be both extremely gifted and nice. 
+
 
 I am proud that several former PhD students continue to serve in research and education, including
 
@@ -27,4 +28,3 @@ I am proud that several former PhD students continue to serve in research and ed
 -    Bjoern Menze, Professor at Zurich University
 -    Melih Kandemir , Assoc. Professor at University of Southern Denmark
 
-Luckily, I am blessed with a fantastic lab whose members happen to be both extremely gifted and nice. 
