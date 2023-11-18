@@ -3,8 +3,8 @@
   group: featured
   image: images/density.JPG
   link: https://pubs.aip.org/aip/jcp/article/159/14/144113/2916356/KineticNet-Deep-learning-a-transferable-kinetic
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+  description: We work on making quantum chemical predictions with chemical accuracy, without orbitals and at a fraction of the cost.  
+  
 - title: ilastik
   subtitle: Interactive ML for biology
   image: images/ilastik-logo.svg
@@ -17,9 +17,9 @@
 
 - title: Signed Graph Partitioning
   subtitle: Fast heuristics for image analysis
-  image: images/photo.jpg
+  image: images/connectomics.jpg
   link: http://openaccess.thecvf.com/content/CVPR2022/html/Bailoni_GASP_a_Generalized_Framework_for_Agglomerative_Clustering_of_Signed_Graphs_CVPR_2022_paper.html
-  description: Agglomerative clustering is the fastest heuristic we have found to date. 
+  description: One decade of work from exactly solving the _multicut_ problem, to the fast _mutex watershed_ and the generalized _gasp_ heuristic.  
   repo: abailoni/GASP
   tags:
     - software 
