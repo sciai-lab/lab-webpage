@@ -7,11 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Most of our publications are found under 
+[Fred's Google Scholar Profile](https://scholar.google.de/citations?hl=en&user=lO62bt0AAAAJ&view_op=list_works&sortby=pubdate)
 
 {% include section.html %}
-
+<!--
 ## Highlighted
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
@@ -25,3 +25,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+-->
