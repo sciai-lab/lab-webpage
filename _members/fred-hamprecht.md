@@ -7,8 +7,6 @@ aliases:
   - FA Hamprecht
 links:
   google-scholar: lO62bt0AAAAJ
-  orcid: 0000-0003-4148-5043
-  
 ---
 
 Hi!
@@ -23,10 +21,10 @@ I enjoy, and feel most privileged, to be able to work on things unknown, and to 
 
 I am proud that several former PhD students continue to serve in research and education, including
 
-    Anna Kreshuk, PI at EMBL
-    Bernhard Renard, Professor at HPI, Potsdam Universty
-    Bjoern Andres, Professor at TU Dresden
-    Bjoern Menze, Professor at Zurich University
-    Melih Kandemir , Assoc. Professor at University of Southern Denmark
+-    Anna Kreshuk, PI at EMBL
+-    Bernhard Renard, Professor at HPI, Potsdam Universty
+-    Bjoern Andres, Professor at TU Dresden
+-    Bjoern Menze, Professor at Zurich University
+-    Melih Kandemir , Assoc. Professor at University of Southern Denmark
 
 Luckily, I am blessed with a fantastic lab whose members happen to be both extremely gifted and nice. 
