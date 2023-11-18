@@ -10,7 +10,7 @@ header-light: false
 # site social media and other links
 links:
   email: hamprecht-lab-manager@iwr.uni-heidelberg.de
-  orcid: 0000-0003-4148-5043
+#  orcid: 0000-0003-4148-5043
   google-scholar: lO62bt0AAAAJ
   github: sciai-lab
 #  twitter: sciai-lab
