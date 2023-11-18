@@ -70,6 +70,7 @@ We learn a lot from our colleagues! We are proud members of, and help shape the 
   include feature.html
   image="images/network.jpg"
   title="Our Network"
+  link="https://structures.uni-heidelberg.de/index.php"
   text=text
 %}
 
@@ -80,7 +81,7 @@ IWR is a central institute of our university, and a fantastic place where scient
 
 {% endcapture %}
 
-{% include feature.html image="images/iwr-schematic.svg" link="team" flip=true title="Home, Sweet Home" text=text %}
+{% include feature.html image="images/iwr-schematic.svg" link="https://typo.iwr.uni-heidelberg.de/home" flip=true title="Home, Sweet Home" text=text %}
 
 
 
