@@ -1,5 +1,5 @@
 ---
-name: Jane Smith
+name: Fred Hamprecht
 image: images/team/fred-hamprecht.jpg
 role: pi
 aliases:
