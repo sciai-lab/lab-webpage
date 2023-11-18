@@ -4,7 +4,15 @@
 
 pi:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Professor
+
+labmanager:
+  icon: fa-solid fa-microscope
+  description: Lab Manager
+
+sysad:
+  icon: fa-solid fa-microscope
+  description: Systems Administrator
 
 postdoc:
   icon: fa-solid fa-glasses
