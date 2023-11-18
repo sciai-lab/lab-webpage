@@ -29,7 +29,7 @@ The most universal approach to such predictions relies on quantum mechanics. We 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="https://pubs.aip.org/aip/jcp/article/159/14/144113/2916356/KineticNet-Deep-learning-a-transferable-kinetic"
   title="Geometric Machine Learning in Quantum Chemistry"
   text=text
 %}
