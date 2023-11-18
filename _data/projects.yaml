@@ -1,44 +1,31 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Kinetic energy functional
+  subtitle: Missing link to make orbital-free density functional theory a reality 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
+  image: images/density.jpg
+  link: https://pubs.aip.org/aip/jcp/article/159/14/144113/2916356/KineticNet-Deep-learning-a-transferable-kinetic
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+
+- title: ilastik
+  subtitle: Interactive ML for biology
+  image: images/ilastik.jpg
+  link: https://www.ilastik.org/
+  description: Now headed by Anna Kreshuk at EMBL, ilastik facilitates quantitative image analysis and has many users in biology. 
+  repo: ilastik/ilastik
   tags:
     - resource
+    - software 
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: Signed Graph Partitioning
+  subtitle: Fast heuristics for image analysis
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: http://openaccess.thecvf.com/content/CVPR2022/html/Bailoni_GASP_a_Generalized_Framework_for_Agglomerative_Clustering_of_Signed_Graphs_CVPR_2022_paper.html
+  description: Agglomerative clustering is the fastest heuristic we have found to date. 
+  repo: abailoni/GASP
   tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
+    - software 
+  
+- title: PlantSeg 
+  subtitle: Helping with 3D segmentation in plants 
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
