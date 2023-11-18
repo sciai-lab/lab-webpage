@@ -11,7 +11,7 @@ Most of our publications are found under
 [Fred's Google Scholar Profile](https://scholar.google.de/citations?hl=en&user=lO62bt0AAAAJ&view_op=list_works&sortby=pubdate)
 
 {% include section.html %}
-<!--
+{% comment %}
 ## Highlighted
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
@@ -25,4 +25,5 @@ Most of our publications are found under
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
--->
+
+{% endcomment %}
