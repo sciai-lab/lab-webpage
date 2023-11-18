@@ -2,26 +2,17 @@
 title: Teaching
 nav:
   order: 4
-  tooltip: Published works
+  tooltip: Teaching
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Teaching
+# Teaching
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Summer semester 2024 
 
-{% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
 
-## All
+## Video lectures
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+Will be moved here. 
