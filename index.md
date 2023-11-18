@@ -17,7 +17,7 @@ The most universal approach to such predictions relies on quantum mechanics. We 
 
 {%
   include button.html
-  link="research"
+  link="https://pubs.aip.org/aip/jcp/article/159/14/144113/2916356/KineticNet-Deep-learning-a-transferable-kinetic"
   text="Our latest in Density Functional Theory"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -28,7 +28,7 @@ The most universal approach to such predictions relies on quantum mechanics. We 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/density.JPG"
   link="https://pubs.aip.org/aip/jcp/article/159/14/144113/2916356/KineticNet-Deep-learning-a-transferable-kinetic"
   title="Geometric Machine Learning in Quantum Chemistry"
   text=text
@@ -68,7 +68,7 @@ We learn a lot from our colleagues, and are proud members of and contributors to
 
 {%
   include feature.html
-  image="images/iwr-schematic.svg"
+  image="images/network.jpg"
   title="Our Network"
   text=text
 %}
@@ -80,7 +80,7 @@ IWR is a central institute of our university, and a fantastic place where scient
 
 {% endcapture %}
 
-{% include feature.html image="images/quantum-boat.jpg" link="team" flip=true title="Home, Sweet Home" text=text %}
+{% include feature.html image="images/iwr-schematic.svg" link="team" flip=true title="Home, Sweet Home" text=text %}
 
 
 
