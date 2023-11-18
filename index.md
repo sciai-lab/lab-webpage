@@ -55,6 +55,7 @@ The team is everything! We live by the maxime "1. Be Nice and 2. Do Great Scienc
   include feature.html
   image="images/photo.jpg"
   link="team"
+  flip=true
   title="Our Team"
   text=text
 %}
