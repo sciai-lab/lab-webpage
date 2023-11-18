@@ -89,7 +89,7 @@ IWR is a central institute of our university, and a fantastic place where scient
 
 Heidelberg is home to a vibrant ML community. The MLAI page is the portal to all talks and events in the area. 
 
-{% include button.html link="https://www.mlai.uni-heidelberg.de/en" text="ML in the area" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
+{% include button.html link="https://www.mlai.uni-heidelberg.de/en" text="ML in the area" icon="fa-solid fa-arrow-right" style="bare" %}
 
 {% endcapture %}
 
