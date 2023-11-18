@@ -38,7 +38,7 @@ The most universal approach to such predictions relies on quantum mechanics. We 
 
 {% capture text %}
 
-The team is everything! We live by the maxime "1. Be Nice and 2. Do Great Science" :-) 
+The team is everything! Our maxime: 1. Be Nice and 2. Do Great Science :-) 
 
 {%
   include button.html
