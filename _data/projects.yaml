@@ -1,13 +1,13 @@
 - title: Kinetic energy functional
-  subtitle: Missing link to make orbital-free density functional theory a reality 
+  subtitle: Making orbital-free density functional theory a reality 
   group: featured
-  image: images/density.jpg
+  image: images/density.JPG
   link: https://pubs.aip.org/aip/jcp/article/159/14/144113/2916356/KineticNet-Deep-learning-a-transferable-kinetic
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 - title: ilastik
   subtitle: Interactive ML for biology
-  image: images/ilastik.jpg
+  image: images/ilastik-logo.svg
   link: https://www.ilastik.org/
   description: Now headed by Anna Kreshuk at EMBL, ilastik facilitates quantitative image analysis and has many users in biology. 
   repo: ilastik/ilastik
