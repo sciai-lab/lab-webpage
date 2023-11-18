@@ -12,9 +12,9 @@ We are physicists, mathematicians, computer scientists and engineers, united by 
 {%
   include figure.html
   image="images/1811-group-outing.png"
-  caption="Lab outing (at a time when gender ratio was better)"
+  caption="Lab AD 2018"
   link="team"
-  width="40%"
+  width="30%"
 %}
 
 {% include section.html %}
