@@ -1,5 +1,5 @@
 ---
-title: The Team :-) 
+title: Team
 nav:
   order: 1
   tooltip: About our team
@@ -7,9 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are a mixed team of physicists, mathematicians, computer scientists and engineers. One of us has studied languages, and one is a chemist gone astray. 
+We are physicists, mathematicians, computer scientists and engineers, united by the 💗 for science. One of us originally studied languages, and one is a chemist gone astray. 
 
-
+{%
+  include figure.html
+  image="images/1811-group-outing.png"
+  caption="Lab outing (at a time when gender ratio was better)"
+  link="team"
+  width="40%"
+%}
 
 {% include section.html %}
 
