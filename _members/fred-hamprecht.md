@@ -1,13 +1,12 @@
 ---
 name: Jane Smith
-image: images/photo.jpg
+image: images/team/fred-hamprecht.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - F. A. Hamprecht
+  - FA Hamprecht
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0003-4148-5043
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
