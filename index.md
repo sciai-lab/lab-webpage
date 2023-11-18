@@ -62,7 +62,7 @@ The team is everything! We live by the maxime "1. Be Nice and 2. Do Great Scienc
 
 {% capture text %}
 
-We learn a lot from our colleagues, and are proud members of and contributors to these initiatives. (ELLIS, STRUCTURES)
+We learn a lot from our colleagues! We are proud members of, and help shape the future of, our excellence cluster, our ellis unit and our department. 
 
 {% endcapture %}
 
@@ -76,7 +76,7 @@ We learn a lot from our colleagues, and are proud members of and contributors to
 {% capture text %}
 
 IWR is a central institute of our university, and a fantastic place where scientists from maths, CS, physics and more meet to develop methods that address some of the hardest problems out there.  
-{% include button.html link="https://typo.iwr.uni-heidelberg.de/home" text="Check out IWR" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
+
 
 {% endcapture %}
 
@@ -93,4 +93,4 @@ Heidelberg is home to a vibrant ML community. The MLAI page is the portal to all
 
 {% endcapture %}
 
-{% include feature.html image="images/ml-galore.jpg" link="team" flip=true title="Machine Learning in Heidelberg" text=text %}
+{% include feature.html image="images/ml-galore.jpg" link="team" title="Machine Learning in Heidelberg" text=text %}
