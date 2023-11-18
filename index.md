@@ -81,3 +81,16 @@ IWR is a central institute of our university, and a fantastic place where scient
 {% endcapture %}
 
 {% include feature.html image="images/quantum-boat.jpg" link="team" flip=true title="Home, Sweet Home" text=text %}
+
+
+
+
+{% capture text %}
+
+Heidelberg is home to a vibrant ML community. The MLAI page is the portal to all talks and events in the area. 
+
+{% include button.html link="https://www.mlai.uni-heidelberg.de/en" text="ML in the area" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/ml-galore.jpg" link="team" flip=true title="Machine Learning in Heidelberg" text=text %}
