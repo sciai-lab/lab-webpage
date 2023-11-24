@@ -5,16 +5,17 @@ nav:
   tooltip: Open positions
 ---
 
-# PhD Positions
+# Positions
 
+
+
+## PhD
 * Geometric machine learning in quantum chemistry: learning kinetic energy density functionals. If successful, this project will enable a breakthrough in the computational cost of quantum chemical calculations. A solid understanding of quantum mechanics and machine learning are required. We work on this exciting project together with the labs of Andreas Dreuw, Maurits Haverkort and Björn Malte Schäfer. 
 *  Transformer-based cell tracking in virology. The aim is to develop software that biologists will really be able to use. The project entails a large software component, and the ideal candidate brings experience in full stack software development, a deep understanding of machine learning, and a passion to help address some of humanity's greatest challenges by working closely with virologists from SFB 1129. For our prior software work in the field of bioimage analysis, check out ilastik and plantseg.
 
 We offer a supportive environment, and MINT-minorities are welcome! 
 
 {% include section.html %}
-
-## PhD
 
 ## BSc, MSc theses
 
