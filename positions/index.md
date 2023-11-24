@@ -8,6 +8,7 @@ nav:
 # Positions
 
 
+{% include section.html %}
 
 ## PhD
 * Geometric machine learning in quantum chemistry: learning kinetic energy density functionals. If successful, this project will enable a breakthrough in the computational cost of quantum chemical calculations. A solid understanding of quantum mechanics and machine learning are required. We work on this exciting project together with the labs of Andreas Dreuw, Maurits Haverkort and Björn Malte Schäfer. 
@@ -25,5 +26,5 @@ Without exception, our thesis topics are connected to our own research, and by e
 
 Besides the advising PI, most undergraduate students are also mentored by a PhD student in day to day work. 
 
-We try and find a good match between person and topic: To let you build on your strengths and experience, but also let you learn new things and give you space to grow. To apply, write to Fred Hamprecht with a short description of your interests plus CV and transcripts. MINT minorities (including female students and first-generation students) are particularly welcome. 
+We try and find a good match between person and topic: To let you build on your strengths and experience, but also let you learn new things and give you space to grow. To apply, write to Fred Hamprecht with a short description of your interests plus CV and transcripts. MINT minorities (including female students and first-generation students) are particularly welcome! 
 
