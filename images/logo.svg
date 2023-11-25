@@ -26,7 +26,7 @@
     <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 1.1s" />
   </g>
   <path
-    fill="#38bdf8"
+    fill="#e80036"
     d="
       M 0 -22.5
       L -19.5 -11.25
@@ -38,7 +38,7 @@
     "
   />
   <path
-    fill="#bae6fd"
+    fill="#e8869a"
     d="
       M 0 -22.5
       L -19.5 -11.25
