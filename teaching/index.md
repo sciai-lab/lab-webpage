@@ -16,7 +16,7 @@ nav:
 
 * Lecture (by Visiting Professor Dmitry Kobak): [Einführung ins Maschinelle Lernen](https://dkobak.github.io/teaching/einfuehrung-ins-ml/)
 * Seminar: [Transformers, large language models, and their use in physics](https://dkobak.github.io/teaching/transformers-llm-seminar/)
-
+* Journal Club: 
 {% include section.html %}
 
 ## Video lectures
