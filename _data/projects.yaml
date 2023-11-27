@@ -11,9 +11,6 @@
   link: https://www.ilastik.org/
   description: Now headed by Anna Kreshuk at EMBL, ilastik facilitates quantitative image analysis and has many users in biology. 
   repo: ilastik/ilastik
-  tags:
-    - resource
-    - software 
 
 - title: Signed Graph Partitioning
   subtitle: Fast heuristics for image analysis
@@ -21,8 +18,6 @@
   link: http://openaccess.thecvf.com/content/CVPR2022/html/Bailoni_GASP_a_Generalized_Framework_for_Agglomerative_Clustering_of_Signed_Graphs_CVPR_2022_paper.html
   description: One decade of work from exactly solving the _multicut_ problem, to the fast _mutex watershed_ and the generalized _gasp_ heuristic.  
   repo: abailoni/GASP
-  tags:
-    - software 
   
 - title: PlantSeg 
   subtitle: Helping with 3D segmentation in plants 
