@@ -1,4 +1,6 @@
-# Journal Club: Advanced Machine Learning
+---
+title: Journal Club: Advanced Machine Learning
+---
 
 The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The focus is on discussing current research papers and results in machine learning. The target audience is active researchers (postdocs, phd students and advanced master students) in the field who want to discuss and stay up to date with recent developments. 
 
