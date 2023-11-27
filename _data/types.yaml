@@ -64,9 +64,9 @@ email:
 
 phone:
   icon: fa-solid fa-phone
-  text: Phone Number
   tooltip: Phone number
-  link: tel:$VALUE
+  #text: Phone Number
+  #link: tel:$VALUE
 
 address:
   icon: fa-solid fa-map-location-dot
@@ -76,7 +76,7 @@ address:
 room:
   icon: fa-solid fa-location-dot
   tooltip: Room Number
-  text: $VALUE
+  #text: Room Number
 
 search:
   icon: fa-solid fa-magnifying-glass
