@@ -8,10 +8,10 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 ## Werner, Barbara
-Lab Manager
-Room 4.306
-Im Neuenheimer Feld 205
-69120 Heidelberg
+- Lab Manager
+- Room 4.306
+- Im Neuenheimer Feld 205
+- 69120 Heidelberg
 
 {%
   include feature.html
