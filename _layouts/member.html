@@ -7,13 +7,12 @@ layout: default
 {% include portrait.html lookup=page.slug %}
 
 <div>
+  {% include button-nolink.html type=room style="bare" %}<br>
   {% for link in page.links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}
     {% include button.html type=key link=value style="bare" %}<br>
   {% endfor %}
-  {% include button.html type=key link=value style="bare" %}<br>
-  {% include button.html type=key link=value style="bare" %}<br>
 </div>
 
 {% endcapture %}
