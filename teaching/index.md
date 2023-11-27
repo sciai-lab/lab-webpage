@@ -10,7 +10,7 @@ nav:
 ## Summer semester 2024 
 
 * Lecture: Geometric Machine Learning in Quantum Chemistry
-* Journal Club: 
+* Journal Club: Advanced Machine Learning
 
 ## Winter semester 2023
 
