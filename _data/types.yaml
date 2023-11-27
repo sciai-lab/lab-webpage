@@ -74,8 +74,9 @@ address:
   tooltip: Address
 
 room:
-  icon: fa-solid fa-door-open
-  text: example room
+  icon: fa-solid fa-location-dot
+  tooltip: Room Number
+  text: $VALUE
 
 search:
   icon: fa-solid fa-magnifying-glass
