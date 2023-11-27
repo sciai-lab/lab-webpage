@@ -3,10 +3,10 @@ name: Peter Lippmann
 image: images/team/peter_lippmann.jpg
 role: phd
 description: 
+room: 001
+phone: 002
 links:
-  home-page:
   email: peter.lippmann@iwr.uni-heidelberg.de
-  twitter:
 ---
 
 I am a PhD student in Fred Hamprecht's Image Analysis and Learning lab. Before, I have studied Physics at Heidelberg University and at Imperial College London. My research interests range from developing principled methods to analyze structured data (let there be graphs) to more applied problems, in particular 3D computer vision.
