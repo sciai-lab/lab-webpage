@@ -2,11 +2,11 @@
 name: Peter Lippmann
 image: images/team/peter_lippmann.jpg
 role: phd
-description: 
+description:
+room: test room
+phone: test phone
 links:
-  room: test room
   email: peter.lippmann@iwr.uni-heidelberg.de
-address: test address
 ---
 
 # Peter Lippmann
