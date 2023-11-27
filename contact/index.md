@@ -14,6 +14,14 @@ Im Neuenheimer Feld 205
 69120 Heidelberg
 
 {%
+  include feature.html
+  image="images/Mathematikon-IWR-9_0.jpeg"
+  title="Building of IWR"
+  text="© IWR / Heidelberg University"
+  flip=true
+%}
+
+{%
   include button.html
   type="email"
   text="hamprecht-lab-manager@iwr.uni-heidelberg.de"
