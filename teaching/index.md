@@ -10,13 +10,13 @@ nav:
 ## Summer semester 2024 
 
 * Lecture: Geometric Machine Learning in Quantum Chemistry
-* Journal Club: Advanced Machine Learning
+* Journal Club: [Advanced Machine Learning](https://sciai-lab.github.io/lab-webpage/teaching/ws23/journal-club/)
 
 ## Winter semester 2023
 
 * Lecture (by Visiting Professor Dmitry Kobak): [Einführung ins Maschinelle Lernen](https://dkobak.github.io/teaching/einfuehrung-ins-ml/)
 * Seminar: [Transformers, large language models, and their use in physics](https://dkobak.github.io/teaching/transformers-llm-seminar/)
-* Journal Club: 
+* Journal Club: [Advanced Machine Learning](https://sciai-lab.github.io/lab-webpage/teaching/ws23/journal-club/)
 {% include section.html %}
 
 ## Video lectures
