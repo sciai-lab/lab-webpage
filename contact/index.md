@@ -40,7 +40,7 @@ nav:
   include button.html
   type="phone"
   text="(0622) 154-14833"
-  link="+490622-154-14833"
+  link="tel:+490622-154-14833"
 %}
 {%
   include button.html
