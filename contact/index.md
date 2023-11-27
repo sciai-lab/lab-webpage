@@ -30,10 +30,6 @@ nav:
 - Im Neuenheimer Feld 205
 - 69120 Heidelberg
 
-{% include float.html clear=true %}
-
-
-
 {%
   include button.html
   type="email"
@@ -52,3 +48,5 @@ nav:
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/Riy78Hikizpj2v5p6"
 %}
+
+{% include float.html clear=true %}
