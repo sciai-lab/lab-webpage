@@ -7,18 +7,32 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-- Barbara Werner
-- Lab Manager
-- Room 4.306
-- Im Neuenheimer Feld 205
-- 69120 Heidelberg
 
+
+{% capture content %}
 {%
   include figure.html
   image="images/Mathematikon-IWR-9_0.jpeg"
   caption="© IWR / Heidelberg University"
   width="400px"
 %}
+{% endcapture %}
+
+{%
+  include float.html
+  content=content
+  flip=true
+%}
+
+- Barbara Werner
+- Lab Manager
+- Room 4.306
+- Im Neuenheimer Feld 205
+- 69120 Heidelberg
+
+{% include float.html clear=true %}
+
+
 
 {%
   include button.html
