@@ -3,9 +3,9 @@ name: Peter Lippmann
 image: images/team/peter_lippmann.jpg
 role: phd
 description: 
-room: 001
-phone: 002
 links:
+  address: 001
+  phone: 002
   email: peter.lippmann@iwr.uni-heidelberg.de
 ---
 
