@@ -7,7 +7,6 @@ room: A04.310
 phone: 14802
 links:
   email: peter.lippmann@iwr.uni-heidelberg.de
-  github: PeteLipp
 ---
 
 # Peter Lippmann
