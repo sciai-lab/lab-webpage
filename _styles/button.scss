@@ -47,6 +47,12 @@ button {
   }
 }
 
+.button[data-style="black"] {
+  padding: 5px;
+  background: none;
+  color: var(--text);
+}
+
 .button[data-flip] {
   flex-direction: row-reverse;
 }
