@@ -73,6 +73,10 @@ address:
   text: Address
   tooltip: Address
 
+room:
+  icon: fa-solid fa-door-open
+  text: $VALUE
+
 search:
   icon: fa-solid fa-magnifying-glass
   text: Search
