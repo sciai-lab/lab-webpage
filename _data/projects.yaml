@@ -21,9 +21,9 @@
   
 - title: PlantSeg 
   subtitle: A tool for cell instance aware segmentation in densely packed 3D volumetric images.
-  image: images/plantseg_logo.png
+  image: images/plantseg.png
   link: https://elifesciences.org/articles/57613
-  description: PlantSeg is a tool for cell instance segmentation tailored to the needs of plant biologists. The pipeline uses a two-stage segmentation strategy (Neural Network + graph-based segmentation).
+  description: PlantSeg is a deep learning tool for cell instance segmentation tailored to the needs of plant biologists.
   repo: hci-unihd/plant-seg
   tags:
     - software
