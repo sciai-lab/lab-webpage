@@ -20,10 +20,10 @@
   repo: abailoni/GASP
   
 - title: PlantSeg 
-  subtitle: Helping with 3D segmentation in plants 
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  subtitle: A tool for cell instance aware segmentation in densely packed 3D volumetric images.
+  image: images/plantseg_logo.png
+  link: https://elifesciences.org/articles/57613
+  description: PlantSeg is a tool for cell instance segmentation tailored to the needs of plant biologists. The pipeline uses a two-stage segmentation strategy (Neural Network + graph-based segmentation).
+  repo: hci-unihd/plant-seg
   tags:
     - software
