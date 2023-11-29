@@ -9,7 +9,7 @@ links:
   email: enrique.fita.sanmartin@iwr.uni-heidelberg.de
 ---
 
-# Enrique Fita Sanmartin
+# Enrique Fita Sanmartín
 
 
 I am a PhD student in Fred Hamprecht's Scientific AI lab. Previously, I studied Mathematics at the University of Valencia and Scientific Computing at Heidelberg University. I am principally interested in the development and understanding of methods for the analysis of data (specifically modelled by graphs) with a well founded theory. 
