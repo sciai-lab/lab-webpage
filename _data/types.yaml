@@ -23,11 +23,11 @@ phd:
   description: PhD Student
 
 master:
-  icon: fa-solid fa-chalkboard-user
+  icon: fa-solid fa-book-open-reader
   description: Masters Student
 
 bachelor:
-  icon: fa-solid fa-chalkboard-user
+  icon: fa-solid fa-book-open-reader
   description: Bachelors Student
 
 programmer:
