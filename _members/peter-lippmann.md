@@ -3,8 +3,8 @@ name: Peter Lippmann
 image: images/team/peter_lippmann.jpg
 role: phd
 description:
-room: A04.310
-phone: 14802
+room: Im Neuenheimer Feld 205, 04.310; D-69120 Heidelberg
+phone: +49 6221 5414802
 links:
   email: peter.lippmann@iwr.uni-heidelberg.de
 ---
