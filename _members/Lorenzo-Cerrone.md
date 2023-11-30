@@ -1,6 +1,6 @@
 ---
 name: Lorenzo Cerrone
-image: images/Lorenzo.jpg
+image: images/team/lorenzo-cerrone.jpg
 role: PostDoc
 description: 
 links:
