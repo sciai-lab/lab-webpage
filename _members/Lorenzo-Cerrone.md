@@ -1,12 +1,8 @@
 ---
 name: Lorenzo Cerrone
 image: images/team/lorenzo-cerrone.jpg
-role: PostDoc
-description: 
+role: postdoc
 links:
-  home-page: https://tims-website.com/
-  email: tim-member@email.com
-  twitter: tims_twitter
 ---
 
 Hi, my name is Lorenzo and I am currently a PhD student in the Image Analysis and Learning Lab!

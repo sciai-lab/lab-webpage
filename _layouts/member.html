@@ -12,12 +12,17 @@ layout: default
     {% assign value = link[1] %}
     {% include button.html type=key link=value style="bare" %}<br>
   {% endfor %}
-  {% if page.room %}
-    {% include button-nolink.html type="room" text=page.room style="black" %}<br>
-  {% endif %}
-  {% if page.phone %}
-    {% include button-nolink.html type="phone" text=page.phone style="black" %}<br>
-  {% endif %}
+
+  {% assign member_infos = site.data.members-list[page.name] %}
+  {% for info in member_infos %}
+    {% assign key = info[0] %}
+    {% assign value = info[1] %}
+    {% if key != "room" %}
+      {% include button.html type=key link=value style="bare" %}<br>
+    {% endif %}
+  {% endfor %}
+
+  {% include button-nolink.html type="room" text=member_infos.room style="black" %}<br>
 </div>
 
 {% endcapture %}

@@ -2,11 +2,7 @@
 name: Enrique Fita Sanmartin
 image: images/team/enrique-fita-sanmartin.jpeg
 role: phd
-description:
-room: Im Neuenheimer Feld 205, 04.303<br> D-69120 Heidelberg
-phone: +49 6221 5414602 
 links:
-  email: enrique.fita.sanmartin@iwr.uni-heidelberg.de
 ---
 
 # Enrique Fita Sanmartín

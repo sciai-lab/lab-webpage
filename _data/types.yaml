@@ -69,16 +69,17 @@ email:
 phone:
   icon: fa-solid fa-phone
   tooltip: Phone number
-  #text: Phone Number
-  #link: tel:$VALUE
+  text: Phone
+  link: tel:$VALUE
 
 address:
   icon: fa-solid fa-map-location-dot
   text: Address
   tooltip: Address
+  link: https://www.google.com/maps/place/$VALUE
 
 room:
-  icon: fa-solid fa-location-dot
+  icon: fa-solid fa-door-closed
   tooltip: Room Number
   #text: Room Number
 

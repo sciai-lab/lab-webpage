@@ -2,11 +2,7 @@
 name: Christof Gehrig
 image: images/team/christof-gehrig.jpg
 role: master
-description:
-room: Room 04.328
-phone: +49 6221 5414831
 links:
-  email: christof.gehrig@stud.uni-heidelberg.de
 ---
 
 # Christof Gehrig

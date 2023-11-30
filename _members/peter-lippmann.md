@@ -2,11 +2,7 @@
 name: Peter Lippmann
 image: images/team/peter_lippmann.jpg
 role: phd
-description:
-room: Room 04.310
-phone: +49 6221 5414802
 links:
-  email: peter.lippmann@iwr.uni-heidelberg.de
 ---
 
 # Peter Lippmann
