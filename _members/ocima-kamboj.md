@@ -1,7 +1,7 @@
 ---
 name: Ocima Kamboj
 image: images/team/ocima-kamboj.jpg
-role: mascot
+role: research assistant
 links:
 ---
 
