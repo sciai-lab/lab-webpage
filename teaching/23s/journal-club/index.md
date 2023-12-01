@@ -24,7 +24,7 @@ https://arxiv.org/abs/2301.05217
 *Remi Lam, Alvaro Sanchez-Gonzalez, Matthew Willson et al.*  
 https://arxiv.org/abs/2212.12794
 
-13.11.23
+13.11.23  
 **Transformers are efficient hierarchical chemical graph learners**  
 *Zihan Pengmei, Zimu Li, Chih-chan Tien, Risi Kondor, Aaron R. Dinner*  
 https://arxiv.org/abs/2310.01704
