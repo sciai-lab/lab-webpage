@@ -1,6 +1,6 @@
 ---
 name: Marc Ickler
-image:
+image: images/team/marc-ickler.jpg
 role: phd
 links:
   github: marcickler
