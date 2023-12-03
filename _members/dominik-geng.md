@@ -9,7 +9,7 @@ links:
 
 # Dominik Geng
 
-I am writing my Physics Master's thesis in the Scientific AI lab. Since my Bachelor's thesis in stochastic dynamics I developed a greater interest in Theoretical Physics, Differential Geometry and Machine Learning.
+I am writing my Physics Master's thesis in the Scientific AI lab. Since my Bachelor's thesis in Stochastic Dynamics I developed a greater interest in Theoretical Physics, Differential Geometry and Machine Learning.
 
 Currently, I am working on Machine Learning applications to Density Functional Theory. Generally, I am interested in the theoretical underpinnings of Machine Learning. That is, how can theory (Math, Physics, Chemistry, you name it) guide our understanding of and yield appropriate inductive biases for Machine Learning. 
 
