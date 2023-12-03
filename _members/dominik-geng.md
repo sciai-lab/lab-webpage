@@ -1,6 +1,6 @@
 ---
 name: Dominik Geng
-image: images/team/dominik-geng.jpeg
+image: images/team/dominik-geng.jpg
 role: master
 links:
   github: Splendus
