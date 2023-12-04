@@ -14,6 +14,4 @@ After I wrote my bachelor's thesis in mathematical physics, where I researched t
 
 My main interest lies in bridging the gap between the natural sciences and machine learning research, with the goal of using machine learning techniques to accelerate research and discover new facts about our physical world.
 
-In my free time, I like to cook and try out food from all over the world. You will also find me playing video games, watching movies, and most importantly having never ending discussions about them.
-
 In my free time, I enjoy cooking and exploring food from all around the world. You will also find me playing video games, watching movies, and most importantly, engaging in never-ending discussions about them.
