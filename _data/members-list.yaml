@@ -1,5 +1,11 @@
 # member list
 
+Heinrich Campe:
+  email: heinrich.campe@iwr.uni-heidelberg.de
+  room: Room 0.000
+  phone: +49 6221 0000000
+  address: Im Neuenheimer Feld 205, 69120 Heidelberg
+
 Lorenzo Cerrone:
   email: lorenzo.cerrone@iwr.uni-heidelberg.de
   room: Room 4.308
@@ -52,4 +58,16 @@ Dominik Geng:
   email: dominik.geng@stud.uni-heidelberg.de
   room: Room 4.308
   phone: +49 6221 5414801
+  address: Im Neuenheimer Feld 205, 69120 Heidelberg
+
+Roman Remme:
+  email: roman.remme@iwr.uni-heidelberg.de
+  room: Room 4.310
+  phone: +49 6221 5414802
+  address: Im Neuenheimer Feld 205, 69120 Heidelberg
+
+Gerrit Gerhartz:
+  email: gerrit.gerhartz@stud.uni-heidelberg.de
+  room: Room 4.327
+  phone: +49 6221 5414831
   address: Im Neuenheimer Feld 205, 69120 Heidelberg
