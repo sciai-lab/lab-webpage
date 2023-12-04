@@ -8,7 +8,7 @@ links:
 
 # Gerrit Gerhartz
 
-I am a master’s student in physics and currently working in the scientific AI lab on the DFT project.
+I am a master’s student in physics and currently working in the Scientific AI lab on the DFT project.
 
 After I wrote my bachelor's thesis in mathematical physics, where I researched the mathematical structure of the path integral in quantum mechanics, I discovered my passion for structural insight in the sciences. And what better tool to discover structures in data than machine learning?
 
