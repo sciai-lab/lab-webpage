@@ -3,7 +3,7 @@ name: Gerrit Gerhartz
 image: images/team/gerrit-gerhartz.jpg
 role: master
 links:
-  github: https://github.com/gerhagj
+  github: gerhagj
 ---
 
 # Gerrit Gerhartz
