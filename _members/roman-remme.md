@@ -1,6 +1,6 @@
 ---
 name: Roman Remme
-image: images/team/roman-remme.jpg
+image: images/team/roman-remme.jpeg
 role: phd
 links:
   github: imagirom
