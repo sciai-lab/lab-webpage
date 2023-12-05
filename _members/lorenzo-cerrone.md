@@ -6,32 +6,28 @@ links:
   google-scholar: 0eIrB2EAAAAJ&hl
 ---
 
-Hi, my name is Lorenzo and I am currently a PhD student in the Image Analysis and Learning Lab!
+Hi, my name is Lorenzo, and I am currently a PostDoc in the sciAI lab!
 
-My current areas of interest are Instance Segmentation and Neural Networks on graphs.
+My current areas of interest are Instance Segmentation, Cell Tracking, Generative AI, and Neural Networks on graphs.
 But, more broadly, my scientific aim is to apply advanced and principled machine learning techniques to solve real problems (at scale!).
 
-My favorite playground is Life science. So far I worked with neurons, [plants](https://www.plantmorphodynamics.com/) and human cells... 
-
-# Selected Publications
-
-
-See [GoogleScholar](https://scholar.google.com/citations?user=0eIrB2EAAAAJ&hl=en&oi=ao) for the complete list of publications. 
+My favorite playground is Life science. So far, I worked with neurons, [plants](https://www.plantmorphodynamics.com/), and human cells...  
 
 # More About My Interests
 
-Time is limited, but I am also interested in:
+I am not very good with languages, but my Python is better than my English! I love anything related to coding and trying new, exciting programming languages! 
 
-Dynamical System and their application to imaging and learning.
-The theoretical limits of Deep Learning (what can neural network do and what they can not?).
-Unsupervised domain adaptation and interactive learning.
-... I could continue but I better stop!
+My background is in Physics (bachelor's in Rome Tor Vergata and master's in Heidelberg). My old-time passions are chaotic dynamical systems and statistical mechanics.
 
-I am not very good with languages but my python is better than my English! I am not a ninja coder but I aspire to be one.
-Very recently, I discovered a new passion and her name is Julia. I am still a beginner but I am learning Julia faster than I am learning German.
+I grew up in Italy and lived there until I started my master's study in Heidelberg, Germany.
 
-My background is in Physics (bachelor in Rome Tor Vergata and master in Heidelberg). My old-time passions are chaotic dynamical systems and Statistical Mechanics.
+At the risk of sounding cliché, I like to cook and am strongly opinionated on food and pizza.
 
-I grew up in Italy and I lived there until I started my master's study in Heidelberg Germany.
-At the risk of sounding cliché, I really like to cook and I am strongly opinionated on food and pizza.
-I love anything related to digital photography, analog photography, film developing, digital postprocessing, computational photography, vintage gear and fine art prints. 
+I love anything related to digital photography, analog photography, film development, digital postprocessing, computational photography, vintage gear, and fine art prints. 
+I am not very good with languages, but my Python is better than my English! I love anything related to coding and trying new, exciting programming languages! 
+
+My background is in Physics (bachelor's in Rome Tor Vergata and master's in Heidelberg). My old-time passions are chaotic dynamical systems and statistical mechanics.
+
+I grew up in Italy and lived there until I started my master's study in Heidelberg, Germany.
+At the risk of sounding cliché, I like to cook and am strongly opinionated on food and pizza.
+I love anything related to digital photography, analog photography, film development, digital postprocessing, computational photography, vintage gear, and fine art prints. 
