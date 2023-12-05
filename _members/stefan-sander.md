@@ -1,7 +1,7 @@
 ---
 name: Stefan Sander
 role: sysad
-image: images/team/stefan_sander.jpg
+image: images/team/stefan-sander.jpg
 links:
 ---
 
