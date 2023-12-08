@@ -9,6 +9,8 @@ links:
   google-scholar: lO62bt0AAAAJ
 ---
 
+# Fred Hamprecht
+
 Hi!
 
 I develop machine learning algorithms for complex problems endowed with spatial structure. 

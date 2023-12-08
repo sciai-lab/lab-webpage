@@ -6,6 +6,8 @@ links:
   google-scholar: 0eIrB2EAAAAJ&hl
 ---
 
+# Lorenzo Cerrone
+
 Hi! I am Lorenzo, and I am currently a PostDoc in the sciAI lab!
 I am passionate about applying advanced and principled machine learning techniques to solve real-world problems (at scale!).
 
