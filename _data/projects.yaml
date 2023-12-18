@@ -20,10 +20,10 @@
   repo: abailoni/GASP
   
 - title: PlantSeg 
-  subtitle: A tool for cell instance aware segmentation in densely packed 3D volumetric images.
+  subtitle: 3D instance segmentation
   image: images/plantseg.png
   link: https://elifesciences.org/articles/57613
-  description: PlantSeg is a deep learning tool for cell instance segmentation tailored to the needs of plant biologists.
+  description: PlantSeg is a [deep learning tool](https://github.com/hci-unihd/plant-seg) for cell instance segmentation tailored to the needs of plant biologists.
   repo: hci-unihd/plant-seg
   tags:
     - software

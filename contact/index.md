@@ -13,7 +13,6 @@ nav:
 {%
   include figure.html
   image="images/Mathematikon-IWR-9_0.jpeg"
-  caption="© IWR / Heidelberg University"
   width="400px"
 %}
 {% endcapture %}
@@ -24,29 +23,30 @@ nav:
   flip=true
 %}
 
-- Barbara Werner
-- Lab Manager
-- Room 4.306
-- Im Neuenheimer Feld 205
-- 69120 Heidelberg
+Barbara Werner<br>
+Lab Manager<br>
+Room 4.306<br>
+Im Neuenheimer Feld 205<br>
+69120 Heidelberg<br>
 
 {%
   include button.html
   type="email"
-  text="hamprecht-lab-manager@iwr.uni-heidelberg.de"
+  text="Email"
   link="hamprecht-lab-manager@iwr.uni-heidelberg.de"
 %}
 {%
   include button.html
   type="phone"
-  text="(0622) 154-14833"
-  link="tel:+490622-154-14833"
+  text="+49-(0)6221-54 14 833"
+  link="tel:+49062215414833"
 %}
 {%
   include button.html
   type="address"
+  text="Directions"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/Riy78Hikizpj2v5p6"
+  link="Riy78Hikizpj2v5p6"
 %}
 
 {% include float.html clear=true %}
