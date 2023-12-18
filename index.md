@@ -60,9 +60,70 @@ The team is everything! Our maxime: 1. Be Nice and 2. Do Great Science :-)
   text=text
 %}
 
-{% capture text %}
+{% comment %}
+
+### Our Network
 
 We learn a lot from our colleagues! We are proud members of, and help shape the future of, our excellence cluster, our ellis unit and our department. 
+
+{%
+  include card.html
+  image="images/structures.jpg"
+  link="https://structures.uni-heidelberg.de/index.php"
+  title="Structures"
+  subtitle="Cluster of Excellence"
+  style="small"
+%}
+
+{%
+  include card.html
+  image="images/network.jpg"
+  link="https://ellis.eu/"
+  title="ellis"
+  subtitle=""
+  style="small"
+%}
+
+{%
+  include card.html
+  image="images/network.jpg"
+  link="https://structures.uni-heidelberg.de/index.php"
+  title="Department"
+  subtitle=""
+  style="small"
+%}
+
+{% endcomment %}
+
+{% capture text %}
+
+We learn a lot from our colleagues! We are proud members of, and help shape the future of, our [excellence cluster](https://structures.uni-heidelberg.de/index.php), our [ellis unit](https://ellis.eu/units/heidelberg) and our [department](https://www.physik.uni-heidelberg.de/). 
+{%
+  include button.html
+  link="https://structures.uni-heidelberg.de/index.php"
+  text="Structures"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{%
+  include button.html
+  link="https://ellis.eu/units/heidelberg"
+  text="ellis unit"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{%
+  include button.html
+  link="https://www.physik.uni-heidelberg.de/"
+  text="department"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 
 {% endcapture %}
 
@@ -81,7 +142,7 @@ IWR is a central institute of our university, and a fantastic place where scient
 
 {% endcapture %}
 
-{% include feature.html image="images/iwr-schematic.svg" link="https://typo.iwr.uni-heidelberg.de/home" flip=true title="Home, Sweet Home" text=text %}
+{% include feature.html image="images/iwr-schematic.svg" link="https://www.iwr.uni-heidelberg.de/home" flip=true title="Home, Sweet Home" text=text %}
 
 
 
