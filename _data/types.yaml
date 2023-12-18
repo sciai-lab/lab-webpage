@@ -3,47 +3,47 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
+  icon:
   description: Professor
 
 labmanager:
-  icon: fa-solid fa-microscope
+  icon:
   description: Lab Manager
 
 sysad:
-  icon: fa-solid fa-microscope
+  icon:
   description: Systems Administrator
 
 visiting-prof:
-  icon: fa-solid fa-microscope
+  icon:
   description: Visiting Professor
 
 postdoc:
-  icon: fa-solid fa-glasses
+  icon:
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  icon:
   description: PhD Student
 
 research assistant:
-  icon: fa-solid fa-atom
+  icon:
   description: Research Assistant
 
 master:
-  icon: fa-solid fa-book-open-reader
-  description: Master's Student
+  icon:
+  description: MSc Student
 
 bachelor:
-  icon: fa-solid fa-book-open-reader
-  description: Bachelor's Student
+  icon:
+  description: BSc Student
 
 programmer:
-  icon: fa-solid fa-code
+  icon:
   description: Programmer
 
 mascot:
-  icon: fa-solid fa-dog
+  icon:
   description: Mascot
 
 # general

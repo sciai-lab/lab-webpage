@@ -11,7 +11,7 @@ We are physicists, mathematicians, computer scientists and engineers, united by 
 
 {%
   include figure.html
-  image="images/1811-group-outing.png"
+  image="images/1811-group-outing.jpg"
   caption="2018 CE"
   link="team"
   width="30%"
@@ -22,3 +22,21 @@ We are physicists, mathematicians, computer scientists and engineers, united by 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: visiting-prof" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$|visiting-prof$)" %}
+
+### Short-term Members
+{:.center}
+
+| Name  | Role  |
+| :---- | :---- |
+| Finn Prem | BSc Student |
+
+## Alumni
+
+{%
+  include button.html
+  link="team/alumni"
+  text="Our Alumni"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
