@@ -38,15 +38,15 @@ Im Neuenheimer Feld 205<br>
 {%
   include button.html
   type="phone"
-  text="+49-(0)6221-54 14 833"
-  link="tel:+49062215414833"
+  text="+49 6221 54-14833"
+  link="+49062215414833"
 %}
 {%
   include button.html
   type="address"
   text="Directions"
   tooltip="Our location on Google Maps for easy navigation"
-  link="Riy78Hikizpj2v5p6"
+  link="ChIJRS21CDDBl0cR_ji7hcsaU_I"
 %}
 
 {% include float.html clear=true %}
