@@ -7,7 +7,7 @@
   
 - title: ilastik
   subtitle: Interactive ML for biology
-  image: images/ilastik-logo.svg
+  image: images/ilastik-logo.jpeg
   link: https://www.ilastik.org/
   description: Now headed by Anna Kreshuk at EMBL, ilastik facilitates quantitative image analysis and has many users in biology. 
   repo: ilastik/ilastik
