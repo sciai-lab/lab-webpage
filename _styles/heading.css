@@ -44,4 +44,25 @@ h4 {
   color: var(--light-gray);
 }
 
+:root {
+  --accordion-indent: 20px;
+}
+
+details {
+  padding-left: var(--accordion-indent);
+}
+
+details summary {
+  margin-bottom: 20px;
+  margin-left: calc(-1 * var(--accordion-indent));
+}
+
+h1.accordion,
+h2.accordion,
+h3.accordion,
+h4.accordion {
+  cursor: pointer;
+  display: inline;
+}
+
 /*# sourceMappingURL=heading.css.map */
