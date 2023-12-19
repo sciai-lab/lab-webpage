@@ -29,7 +29,6 @@ We are physicists, mathematicians, computer scientists and engineers, united by 
 | Name  | Role  |
 | :---- | :---- |
 | Finn Prem | BSc Student |
-| Test Barbara | BSc Student |
 
 ## Alumni
 
