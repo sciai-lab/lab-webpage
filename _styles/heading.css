@@ -48,6 +48,11 @@ h4 {
   --accordion-indent: 20px;
 }
 
+@media (max-width: 800px) {
+  :root {
+    --accordion-indent: 0;
+  }
+}
 details {
   padding-left: var(--accordion-indent);
 }
