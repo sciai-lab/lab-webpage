@@ -1,6 +1,8 @@
 ---
 ---
 
+$wrap: 800px;
+
 h1,
 h2,
 h3,
@@ -50,6 +52,13 @@ h4 {
 // accordion
 :root {
   --accordion-indent: 20px;
+}
+
+
+@media (max-width: $wrap) {
+  :root {
+    --accordion-indent: 0;
+  }
 }
 
 details {
