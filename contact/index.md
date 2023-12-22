@@ -2,7 +2,7 @@
 title: Contact
 nav:
   order: 6
-  tooltip: Contact person and channels
+  tooltip: Contact person
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
@@ -38,8 +38,8 @@ Im Neuenheimer Feld 205<br>
 {%
   include button.html
   type="phone"
-  text="+49 6221 54-14833"
-  link="+49062215414833"
+  text="Phone"
+  link="+49 6221 5414833"
 %}
 {%
   include button.html
