@@ -5,7 +5,7 @@ nav:
   tooltip: Teaching
 ---
 
-# Teaching
+# {% include icon.html icon="fa-solid fa-chalkboard-user" %}Teaching
 
 ## Summer semester 2024 
 

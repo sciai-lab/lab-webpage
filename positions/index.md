@@ -5,7 +5,7 @@ nav:
   tooltip: Open positions
 ---
 
-# Positions
+# {% include icon.html icon="fa-solid fa-user" %}Positions
 
 
 {% include section.html %}
