@@ -98,32 +98,6 @@ We learn a lot from our colleagues! We are proud members of, and help shape the 
 {% capture text %}
 
 We learn a lot from our colleagues! We are proud members of, and help shape the future of, our [excellence cluster](https://structures.uni-heidelberg.de/index.php), our [ellis unit](https://ellis.eu/units/heidelberg) and our [department](https://www.physik.uni-heidelberg.de/). 
-{%
-  include button.html
-  link="https://structures.uni-heidelberg.de/index.php"
-  text="Structures"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{%
-  include button.html
-  link="https://ellis.eu/units/heidelberg"
-  text="ellis unit"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{%
-  include button.html
-  link="https://www.physik.uni-heidelberg.de/"
-  text="department"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
 {% endcapture %}
 
