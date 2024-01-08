@@ -28,7 +28,7 @@ We are physicists, mathematicians, computer scientists and engineers, united by 
 
 | Name  | Role  |
 | :---- | :---- |
-| Finn Prem | BSc Student |
+| Lennart Bürger | MSc Student |
 
 ## Alumni
 
