@@ -1,6 +1,6 @@
 ---
 name: Lennart Bürger
-image: images/team/Lennart-Buerger.jpg
+image: images/team/lennart-buerger.jpg
 role: master
 ---
 # Lennart Bürger
