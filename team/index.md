@@ -23,12 +23,16 @@ We are physicists, mathematicians, computer scientists and engineers, united by 
 {% include list.html data="members" component="portrait" filters="role: visiting-prof" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$|visiting-prof$)" %}
 
+{% comment %}
+
 ### Members who don't have a member page yet
 {:.center}
 
 | Name  | Role  |
 | :---- | :---- |
 | Lennart Bürger | MSc Student |
+
+{% endcomment %}
 
 ## Alumni
 
