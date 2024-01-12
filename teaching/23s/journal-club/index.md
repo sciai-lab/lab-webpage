@@ -9,7 +9,7 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
 Next Seminar: 22.01.2024 in INF 205, SR 4.300 starting at 1:00pm  
-**Paper to be discussed:** will be announced on Friday 19.01. (paper voting in progress)
+**Paper to be discussed:** will be announced on Friday 19.01. (paper voting is in progress)
 
 ---
 
