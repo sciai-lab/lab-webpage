@@ -12,4 +12,4 @@ I am a PhD student in Fred Hamprecht's Image Analysis and Learning lab. Before, 
 
 In my free time I love doing sports, riding my bike up the Heidelberg Hills or going bouldering. I sing in a student choir and always enjoy playing the guitar in the occasional jam session. 
 
-Feel free to get in touch with me or catch me in person at our weekly [journal club](https://sciai-lab.github.io/lab-webpage/teaching/23s/journal-club/) where we come together to discuss the latest and the greatest in the machine learning paper jungle.
+Feel free to get in touch with me or catch me in person at our weekly [journal club](/teaching/23s/journal-club/) where we come together to discuss the latest and the greatest in the machine learning paper jungle.
