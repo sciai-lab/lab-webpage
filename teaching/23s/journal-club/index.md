@@ -8,16 +8,22 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 04.12.2023 in INF 205, SR 4.300 starting at 1:00pm  
-**Paper to be discussed:**
-
-**Progress measures for grokking via mechanistic interpretability**  
-*Neel Nanda, Lawrence Chan, Tom Lieberum, Jess Smith, Jacob Steinhardt*  
-https://arxiv.org/abs/2301.05217
+Next Seminar: 22.01.2024 in INF 205, SR 4.300 starting at 1:00pm  
+**Paper to be discussed:** will be announced on Friday 19.01. (paper voting in progress)
 
 ---
 
 **Recently discussed papers:**
+
+13.12.23  
+**Deep Nets Don't Learn via Memorization**
+*David Krueger*, Nicolas Ballas*, Stanislaw Jastrzebski*, Devansh Arpit* et al.*
+https://openreview.net/forum?id=rJv6ZgHYg
+
+04.01.12  
+**Progress measures for grokking via mechanistic interpretability**
+*Neel Nanda, Lawrence Chan, Tom Lieberum, Jess Smith, Jacob Steinhardt*
+https://arxiv.org/abs/2301.05217
 
 27.11.23  
 **GraphCast: Learning skillful medium-range global weather forecasting**  
