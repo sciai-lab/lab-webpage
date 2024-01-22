@@ -8,21 +8,26 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 22.01.2024 in INF 205, SR 4.300 starting at 1:00pm  
-**Paper to be discussed:** will be announced on Friday 19.01. (paper voting is in progress)
+Next Seminar: 29.01.2024 in INF 205, SR 4.300 starting at 1:00pm  
+**Paper to be discussed:** will be announced on Friday (paper voting in progress)
 
 ---
 
 **Recently discussed papers:**
 
+22.01.23  
+**Learning Distributions on Manifolds with Free-form Flows**  
+*Peter Sorrenson, Felix Draxler, Armand Rousselot, Sander Hummerich, Ullrich Köthe*  
+https://arxiv.org/abs/2312.09852
+
 13.12.23  
-**Deep Nets Don't Learn via Memorization**
-*David Krueger*, Nicolas Ballas*, Stanislaw Jastrzebski*, Devansh Arpit* et al.*
+**Deep Nets Don't Learn via Memorization**  
+*David Krueger*, Nicolas Ballas*, Stanislaw Jastrzebski*, Devansh Arpit* et al.*  
 https://openreview.net/forum?id=rJv6ZgHYg
 
 04.01.12  
-**Progress measures for grokking via mechanistic interpretability**
-*Neel Nanda, Lawrence Chan, Tom Lieberum, Jess Smith, Jacob Steinhardt*
+**Progress measures for grokking via mechanistic interpretability**  
+*Neel Nanda, Lawrence Chan, Tom Lieberum, Jess Smith, Jacob Steinhardt*  
 https://arxiv.org/abs/2301.05217
 
 27.11.23  
