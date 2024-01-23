@@ -53,15 +53,15 @@
   category: recent
   plugin: sources.py
   file: sources.yaml
-- id: algebraic-path
+- id: url:https://proceedings.mlr.press/v162/sanmarti-n22a.html
   title: The Algebraic Path Problem for Graph Metrics
-  link: https://proceedings.mlr.press/v162/sanmarti-n22a.html
   authors:
   - "Enrique Fita Sanmart\xEDn"
   - Sebastian Damrich
   - Fred A. Hamprecht
-  date: '2022-07-17'
   publisher: ICML
+  date: '2022-07-17'
+  link: https://proceedings.mlr.press/v162/sanmarti-n22a.html
   category: recent
   plugin: sources.py
   file: sources.yaml
