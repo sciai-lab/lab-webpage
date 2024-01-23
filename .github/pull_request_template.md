@@ -1,4 +1,1 @@
-This website is based on the Lab Website Template.
-See its documentation for working with this site:
-
-https://greene-lab.gitbook.io/lab-website-template-docs
+<!-- If you consider it necessary, you can add a description of the changes in this PR here. -->
