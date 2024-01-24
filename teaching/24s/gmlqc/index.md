@@ -1,3 +1,7 @@
+---
+title: Geometric Machine Learning in Quantum Chemistry 
+---
+
 # Geometric Machine Learning in Quantum Chemistry 
 
 _Quantum Chemistry_ allows predicting the properties of molecular systems with great precision by invoking and "solving" the laws of quantum mechanics. Unfortunately, it is held by the computational effort which scales poorly with the size of the system under study. Machine Learning is about to revolutionize the field of electronic structure theory by bringing down the computational effort. Principled machine learning approaches respect the roto-translational symmetries of the problem. This is the dominion of _geometric machine learning_. 
