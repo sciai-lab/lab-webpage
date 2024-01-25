@@ -38,3 +38,8 @@ Time and Place: To allow students to reach Neuenheimer Feld in time for the next
 The lecture accounts for 6CP and can be elected as part of the Computational Physics specialization. 
 
 Registration is not required. Simply come to the first lecture on April 18th. 
+
+### Literature
+
+- Frank Jensen, Introduction to Computational Chemistry (3rd edition)
+
