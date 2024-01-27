@@ -8,7 +8,7 @@ _Quantum chemistry_ allows predicting the properties of molecular systems with g
 
 {%
   include figure.html
-  image="https://e3nn.org/assets/img/sphharm.gif"
+  image="images/spherical_harmonics.gif"
   caption="Spherical harmonics give all irreducible representations of SO(3). Figure from [e3nn.org](https://e3nn.org/)."
   width="400px"
 %}
