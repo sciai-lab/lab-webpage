@@ -1,0 +1,26 @@
+- id: doi:10.1063/5.0158275
+  publisher: JCP
+  image: images/publications/KineticNet.png
+
+- id: url:https://dl.acm.org/doi/10.5555/3618408.3619483
+  publisher: ICML
+  image: images/publications/geometric-autoencoders.png
+
+- id: url:https://openreview.net/forum?id=B8a1FcY0vi
+  date: '2023-02-01'
+  publisher: ICLR
+  image: images/publications/tSNE-to-UMAP.png
+
+- id: url:https://proceedings.neurips.cc/paper_files/paper/2022/hash/0206c1c20a18915da23df5e61966fc6a-Abstract-Conference.html
+  publisher: NeurIPS
+  image: images/publications/branched-BOT.png
+
+
+- id: url:https://proceedings.mlr.press/v162/sanmarti-n22a.html
+  publisher: ICML
+  image: images/publications/algebraic-path-problem.png
+
+- id: url:https://proceedings.neurips.cc/paper/2021/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html
+  publisher: NeurIPS
+  image: images/publications/UMAP-loss.png
+
