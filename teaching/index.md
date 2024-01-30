@@ -21,5 +21,5 @@ nav:
 
 ## Video lectures
 
-{% include_relative video-lectures.html %}
+{% include video-lectures.html %}
  

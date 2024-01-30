@@ -1,60 +1,276 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1109/TPAMI.2020.2980827
+  title: 'The Mutex Watershed and its Objective: Efficient, Parameter-Free Graph Partitioning'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  - Steffen Wolf
+  - Alberto Bailoni
+  - Constantin Pape
+  - Nasim Rahaman
+  - Anna Kreshuk
+  - Ullrich Kothe
+  - Fred A. Hamprecht
+  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  date: '2021-10-01'
+  link: https://doi.org/gmv667
   plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  file: sources-highlights.yaml
+- id: 10.1038/s41592-019-0582-9
+  title: 'ilastik: interactive machine learning for (bio)image analysis'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Stuart Berg
+  - Dominik Kutra
+  - Thorben Kroeger
+  - Christoph N. Straehle
+  - Bernhard X. Kausler
+  - Carsten Haubold
+  - Martin Schiegg
+  - Janez Ales
+  - Thorsten Beier
+  - Markus Rudy
+  - Kemal Eren
+  - Jaime I Cervantes
+  - Buote Xu
+  - Fynn Beuttenmueller
+  - Adrian Wolny
+  - Chong Zhang
+  - Ullrich Koethe
+  - Fred A. Hamprecht
+  - Anna Kreshuk
+  publisher: Nature Methods
+  date: '2019-09-30'
+  link: https://doi.org/gf85p9
   plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  file: sources-highlights.yaml
+- id: url:https://proceedings.mlr.press/v80/draxler18a.html
+  title: Essentially No Barriers in Neural Network Energy Landscape
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Felix Draxler
+  - Kambis Veschgini
+  - Manfred Salmhofer
+  - Fred Hamprecht
+  publisher: Proceedings of the 35th International Conference on Machine Learning
+  date: '2018-07-03'
+  link: https://proceedings.mlr.press/v80/draxler18a.html
   plugin: sources.py
-  file: sources.yaml
+  file: sources-highlights.yaml
+- id: doi:10.1109/CVPR.2018.00095
+  title: Learning Steerable Filters for Rotation Equivariant CNNs
+  authors:
+  - Maurice Weiler
+  - Fred A. Hamprecht
+  - Martin Storath
+  publisher: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  date: '2018-06-01'
+  link: https://doi.org/ghhzw7
+  plugin: sources.py
+  file: sources-highlights.yaml
+- id: doi:10.1038/nmeth.4151
+  title: Multicut brings automated neurite segmentation closer to human performance
+  authors:
+  - Thorsten Beier
+  - Constantin Pape
+  - Nasim Rahaman
+  - Timo Prange
+  - Stuart Berg
+  - Davi D Bock
+  - Albert Cardona
+  - Graham W Knott
+  - Stephen M Plaza
+  - Louis K Scheffer
+  - Ullrich Koethe
+  - Anna Kreshuk
+  - Fred A Hamprecht
+  publisher: Nature Methods
+  date: '2017-02-01'
+  link: https://doi.org/gmptkm
+  plugin: sources.py
+  file: sources-highlights.yaml
+- id: doi:10.1007/s11263-015-0809-x
+  title: A Comparative Study of Modern Inference Techniques for Structured Discrete
+    Energy Minimization Problems
+  authors:
+  - "J\xF6rg H. Kappes"
+  - Bjoern Andres
+  - Fred A. Hamprecht
+  - "Christoph Schn\xF6rr"
+  - Sebastian Nowozin
+  - Dhruv Batra
+  - Sungwoong Kim
+  - Bernhard X. Kausler
+  - "Thorben Kr\xF6ger"
+  - Jan Lellmann
+  - Nikos Komodakis
+  - Bogdan Savchynskyy
+  - Carsten Rother
+  publisher: International Journal of Computer Vision
+  date: '2015-03-14'
+  link: https://doi.org/f7swzm
+  plugin: sources.py
+  file: sources-highlights.yaml
+- id: doi:10.1093/bioinformatics/btu764
+  title: Graphical model for joint segmentation and tracking of multiple dividing
+    cells
+  authors:
+  - Martin Schiegg
+  - Philipp Hanslovsky
+  - Carsten Haubold
+  - Ullrich Koethe
+  - Lars Hufnagel
+  - Fred A. Hamprecht
+  publisher: Bioinformatics
+  date: '2014-11-17'
+  link: https://doi.org/f67q8q
+  plugin: sources.py
+  file: sources-highlights.yaml
+- id: doi:10.1007/978-3-319-11752-2_4
+  title: 'Semi-Global Matching: A Principled Derivation in Terms of Message Passing'
+  authors:
+  - Amnon Drory
+  - Carsten Haubold
+  - Shai Avidan
+  - Fred A. Hamprecht
+  publisher: Lecture Notes in Computer Science
+  date: '2014-01-01'
+  link: https://doi.org/gtf3rx
+  plugin: sources.py
+  file: sources-highlights.yaml
+- id: doi:10.1021/ac801303x
+  title: Concise Representation of Mass Spectrometry Images by Probabilistic Latent
+    Semantic Analysis
+  authors:
+  - Michael Hanselmann
+  - Marc Kirchner
+  - Bernhard Y. Renard
+  - Erika R. Amstalden
+  - Kristine Glunde
+  - Ron M. A. Heeren
+  - Fred A. Hamprecht
+  publisher: Analytical Chemistry
+  date: '2008-11-07'
+  link: https://doi.org/bj63dw
+  plugin: sources.py
+  file: sources-highlights.yaml
+- id: doi:10.1109/TIT.2004.840864
+  title: Optimal Lattices for Sampling
+  authors:
+  - H.R. Kunsch
+  - E. Agrell
+  - F.A. Hamprecht
+  publisher: IEEE Transactions on Information Theory
+  date: '2005-02-01'
+  link: https://doi.org/b3cd9w
+  plugin: sources.py
+  file: sources-highlights.yaml
+- id: doi:10.1021/ci010376b
+  title: "Chemical Library Subset Selection Algorithms:\u2009 A Unified Derivation\
+    \ Using Spatial Statistics"
+  authors:
+  - Fred A. Hamprecht
+  - Walter Thiel
+  - Wilfred F. van Gunsteren
+  publisher: Journal of Chemical Information and Computer Sciences
+  date: '2002-03-01'
+  link: https://doi.org/cgc9s8
+  plugin: sources.py
+  file: sources-highlights.yaml
+- id: doi:10.1063/1.477267
+  title: Development and assessment of new exchange-correlation functionals
+  authors:
+  - Fred A. Hamprecht
+  - Aron J. Cohen
+  - David J. Tozer
+  - Nicholas C. Handy
+  publisher: The Journal of Chemical Physics
+  date: '1998-10-15'
+  link: https://doi.org/b6p9bq
+  plugin: sources.py
+  file: sources-highlights.yaml
+- id: doi:10.1021/jm970732a
+  title: "Three-Dimensional Quantitative Similarity\u2212Activity Relationships (3D\
+    \ QSiAR) from SEAL Similarity Matrices"
+  authors:
+  - Hugo Kubinyi
+  - Fred A. Hamprecht
+  - Thomas Mietzner
+  publisher: Journal of Medicinal Chemistry
+  date: '1998-06-16'
+  link: https://doi.org/fj2k3z
+  plugin: sources.py
+  file: sources-highlights.yaml
+- id: doi:10.1063/5.0158275
+  title: 'KineticNet: Deep learning a transferable kinetic energy functional for orbital-free
+    density functional theory'
+  authors:
+  - R. Remme
+  - T. Kaczun
+  - M. Scheurer
+  - A. Dreuw
+  - F. A. Hamprecht
+  publisher: JCP
+  date: '2023-10-13'
+  link: https://doi.org/gs93pm
+  image: images/publications/KineticNet.png
+  plugin: sources.py
+  file: sources-recent.yaml
+- id: url:https://dl.acm.org/doi/10.5555/3618408.3619483
+  title: 'Geometric autoencoders: what you see is what you decode'
+  authors:
+  - Philipp Nazari
+  - Sebastian Damrich
+  - Fred A. Hamprecht
+  publisher: ICML
+  date: '2023-07-23'
+  link: https://dl.acm.org/doi/10.5555/3618408.3619483
+  image: images/publications/geometric-autoencoders.png
+  plugin: sources.py
+  file: sources-recent.yaml
+- id: url:https://openreview.net/forum?id=B8a1FcY0vi
+  title: From $t$-SNE to UMAP with contrastive learning
+  authors:
+  - Sebastian Damrich
+  - "Niklas B\xF6hm"
+  - Fred A. Hamprecht
+  - Dmitry Kobak
+  publisher: ICLR
+  date: '2023-02-01'
+  link: https://openreview.net/forum?id=B8a1FcY0vi
+  image: images/publications/tSNE-to-UMAP.png
+  plugin: sources.py
+  file: sources-recent.yaml
+- id: url:https://proceedings.neurips.cc/paper_files/paper/2022/hash/0206c1c20a18915da23df5e61966fc6a-Abstract-Conference.html
+  title: Theory and Approximate Solvers for Branched Optimal Transport with Multiple
+    Sources
+  authors:
+  - Peter Lippmann
+  - "Enrique Fita Sanmart\xEDn"
+  - Fred A. Hamprecht
+  publisher: NeurIPS
+  date: '2022-12-06'
+  link: https://proceedings.neurips.cc/paper_files/paper/2022/hash/0206c1c20a18915da23df5e61966fc6a-Abstract-Conference.html
+  image: images/publications/branched-BOT.png
+  plugin: sources.py
+  file: sources-recent.yaml
+- id: url:https://proceedings.mlr.press/v162/sanmarti-n22a.html
+  title: The Algebraic Path Problem for Graph Metrics
+  authors:
+  - "Enrique Fita Sanmart\u0131\u0301n"
+  - Sebastian Damrich
+  - Fred Hamprecht
+  publisher: ICML
+  date: '2022-06-28'
+  link: https://proceedings.mlr.press/v162/sanmarti-n22a.html
+  image: images/publications/algebraic-path-problem.png
+  plugin: sources.py
+  file: sources-recent.yaml
+- id: url:https://proceedings.neurips.cc/paper/2021/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html
+  title: On UMAP' s True Loss Function
+  authors:
+  - Sebastian Damrich
+  - Fred A Hamprecht
+  publisher: NeurIPS
+  date: '2021-01-01'
+  link: https://proceedings.neurips.cc/paper/2021/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html
+  image: images/publications/UMAP-loss.png
+  plugin: sources.py
+  file: sources-recent.yaml
