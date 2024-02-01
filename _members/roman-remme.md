@@ -14,6 +14,6 @@ in particular other sciences.
 As a member of the scientific AI lab, I had the chance to do so in a biological, technical and most recently chemical context:
 
 Currently, my main research interest is geometric machine learning, particularly its application to molecular systems.
-As one of the initial members of the orbital-free DFT project, I am exited to see how the team is growing and evolving.
+As one of the initial members of the orbital-free DFT project, I am excited to see how the team is growing and evolving.
 
 In my free time, I enjoy climbing and origami.
