@@ -8,18 +8,23 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 29.01.2024 in INF 205, SR 4.300 starting at 1:00pm  
+Next Seminar: 05.02.2024 in INF 205, SR 4.300 starting at 1:00pm  
 **Paper to be discussed:**  
 
-**Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training**  
-*Evan Hubinger, Carson Denison, Jesse Mu, Mike Lambert et al.*  
-https://arxiv.org/abs/2401.05566
+**A foundation model for atomistic materials chemistry**  
+*Ilyes Batatia, Philipp Benner, Yuan Chiang et al.*  
+https://arxiv.org/abs/2401.00096
 
 ---
 
 **Recently discussed papers:**
 
-22.01.23  
+29.01.24
+**Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training**  
+*Evan Hubinger, Carson Denison, Jesse Mu, Mike Lambert et al.*  
+https://arxiv.org/abs/2401.05566
+
+22.01.24  
 **Learning Distributions on Manifolds with Free-form Flows**  
 *Peter Sorrenson, Felix Draxler, Armand Rousselot, Sander Hummerich, Ullrich Köthe*  
 https://arxiv.org/abs/2312.09852
