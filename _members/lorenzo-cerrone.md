@@ -1,7 +1,7 @@
 ---
 name: Lorenzo Cerrone
 image: images/team/lorenzo-cerrone.jpg
-role: postdoc
+role: alumni
 links:
   google-scholar: 0eIrB2EAAAAJ&hl
 ---
