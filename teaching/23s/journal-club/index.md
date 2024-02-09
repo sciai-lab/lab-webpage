@@ -8,16 +8,21 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 05.02.2024 in INF 205, SR 4.300 starting at 1:00pm  
+Next Seminar: 12.02.2024 in INF 205, SR 4.300 starting at 1:00pm  
 **Paper to be discussed:**  
 
-**A foundation model for atomistic materials chemistry**  
-*Ilyes Batatia, Philipp Benner, Yuan Chiang et al.*  
-https://arxiv.org/abs/2401.00096
+**TensorNet: Cartesian Tensor Representations for Efficient Learning of Molecular Potentials**  
+*Guillem Simeon, Gianni de Fabritiis*  
+https://arxiv.org/abs/2306.06482
 
 ---
 
 **Recently discussed papers:**
+
+05.02.24  
+**A foundation model for atomistic materials chemistry**  
+*Ilyes Batatia, Philipp Benner, Yuan Chiang et al.*  
+https://arxiv.org/abs/2401.00096
 
 29.01.24
 **Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training**  
