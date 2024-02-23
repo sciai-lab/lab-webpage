@@ -8,16 +8,28 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 12.02.2024 in INF 205, SR 4.300 starting at 1:00pm  
-**Paper to be discussed:**  
+Next Seminar: 26.02.2024 in INF 205, SR 4.300 starting at 1:00pm  
+**Paper to be discussed:**
 
-**TensorNet: Cartesian Tensor Representations for Efficient Learning of Molecular Potentials**  
-*Guillem Simeon, Gianni de Fabritiis*  
-https://arxiv.org/abs/2306.06482
+**Solving olympiad geometry without human demonstrations**  
+*Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He & Thang Luong*  
+https://www.nature.com/articles/s41586-023-06747-5
+
+
 
 ---
 
 **Recently discussed papers:**
+
+19.02.24  
+**EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations**  
+*Yi-Lun Liao, Brandon Wood, Abhishek Das, Tess Smidt*  
+https://arxiv.org/abs/2306.12059
+
+12.02.24  
+**TensorNet: Cartesian Tensor Representations for Efficient Learning of Molecular Potentials**  
+*Guillem Simeon, Gianni de Fabritiis*  
+https://arxiv.org/abs/2306.06482
 
 05.02.24  
 **A foundation model for atomistic materials chemistry**  
