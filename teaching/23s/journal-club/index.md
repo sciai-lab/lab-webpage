@@ -8,18 +8,22 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 26.02.2024 in INF 205, SR 4.300 starting at 1:00pm  
+Next Seminar: 04.03.2024 in INF 205, SR 4.300 starting at 1:00pm  
 **Paper to be discussed:**
 
-**Solving olympiad geometry without human demonstrations**  
-*Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He & Thang Luong*  
-https://www.nature.com/articles/s41586-023-06747-5
-
+**Lie Point Symmetry and Physics-Informed Networks**  
+*Tara Akhound-Sadegh, Laurence Perreault-Levasseur, Johannes Brandstetter, Max Welling, Siamak Ravanbakhsh*  
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/8493c860bec41705f7743d5764301b94-Abstract-Conference.html
 
 
 ---
 
 **Recently discussed papers:**
+
+26.02.2024  
+**Solving olympiad geometry without human demonstrations**  
+*Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He & Thang Luong*  
+https://www.nature.com/articles/s41586-023-06747-5
 
 19.02.24  
 **EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations**  
