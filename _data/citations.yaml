@@ -13,6 +13,7 @@
   publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
   date: '2021-10-01'
   link: https://doi.org/gmv667
+  image: images/publications/mutex-watershed.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: 10.1038/s41592-019-0582-9
@@ -40,6 +41,7 @@
   publisher: Nature Methods
   date: '2019-09-30'
   link: https://doi.org/gf85p9
+  image: images/publications/ilastik.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: url:https://proceedings.mlr.press/v80/draxler18a.html
@@ -52,6 +54,7 @@
   publisher: Proceedings of the 35th International Conference on Machine Learning
   date: '2018-07-03'
   link: https://proceedings.mlr.press/v80/draxler18a.html
+  image: images/publications/no-barriers.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: doi:10.1109/CVPR.2018.00095
@@ -63,6 +66,7 @@
   publisher: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
   date: '2018-06-01'
   link: https://doi.org/ghhzw7
+  image: images/publications/equivariant-cnns.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: doi:10.1038/nmeth.4151
@@ -84,6 +88,7 @@
   publisher: Nature Methods
   date: '2017-02-01'
   link: https://doi.org/gmptkm
+  image: images/publications/multicut.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: doi:10.1007/s11263-015-0809-x
@@ -106,6 +111,7 @@
   publisher: International Journal of Computer Vision
   date: '2015-03-14'
   link: https://doi.org/f7swzm
+  image: images/publications/discrete-energy-minimization.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: doi:10.1093/bioinformatics/btu764
@@ -121,6 +127,7 @@
   publisher: Bioinformatics
   date: '2014-11-17'
   link: https://doi.org/f67q8q
+  image: images/publications/segment-track-dividing-cells.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: doi:10.1007/978-3-319-11752-2_4
@@ -133,6 +140,7 @@
   publisher: Lecture Notes in Computer Science
   date: '2014-01-01'
   link: https://doi.org/gtf3rx
+  image: images/publications/semi-global-matching.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: doi:10.1021/ac801303x
@@ -149,6 +157,7 @@
   publisher: Analytical Chemistry
   date: '2008-11-07'
   link: https://doi.org/bj63dw
+  image: images/publications/mass-spectrometry-analysis.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: doi:10.1109/TIT.2004.840864
@@ -160,6 +169,7 @@
   publisher: IEEE Transactions on Information Theory
   date: '2005-02-01'
   link: https://doi.org/b3cd9w
+  image: images/publications/optimal-lattices.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: doi:10.1021/ci010376b
@@ -172,6 +182,7 @@
   publisher: Journal of Chemical Information and Computer Sciences
   date: '2002-03-01'
   link: https://doi.org/cgc9s8
+  image: images/publications/chemical-subset-selection.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: doi:10.1063/1.477267
@@ -184,6 +195,7 @@
   publisher: The Journal of Chemical Physics
   date: '1998-10-15'
   link: https://doi.org/b6p9bq
+  image: images/publications/HCTH.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: doi:10.1021/jm970732a
@@ -196,6 +208,7 @@
   publisher: Journal of Medicinal Chemistry
   date: '1998-06-16'
   link: https://doi.org/fj2k3z
+  image: images/publications/3D-QSiAR.png
   plugin: sources.py
   file: sources-highlights.yaml
 - id: doi:10.1063/5.0158275
