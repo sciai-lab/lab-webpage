@@ -26,4 +26,4 @@ Most of our publications are found under
 
 ## Highlights
 
-{% include list.html data="citations" component="citation" filters="file: sources-highlights.yaml" style="small" %}
+{% include list.html data="citations" component="citation" filters="file: sources-highlights.yaml" style="rich" %}

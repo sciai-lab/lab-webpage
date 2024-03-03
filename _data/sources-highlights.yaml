@@ -1,25 +1,38 @@
 - id: doi:10.1109/TPAMI.2020.2980827
+  image: images/publications/mutex-watershed.png
 
 - id: 10.1038/s41592-019-0582-9
+  image: images/publications/ilastik.png
 
 - id: url:https://proceedings.mlr.press/v80/draxler18a.html
+  image: images/publications/no-barriers.png
 
 - id: doi:10.1109/CVPR.2018.00095
+  image: images/publications/equivariant-cnns.png
 
 - id: doi:10.1038/nmeth.4151
+  image: images/publications/multicut.png
 
 - id: doi:10.1007/s11263-015-0809-x
+  image: images/publications/discrete-energy-minimization.png
 
 - id: doi:10.1093/bioinformatics/btu764
+  image: images/publications/segment-track-dividing-cells.png
 
 - id: doi:10.1007/978-3-319-11752-2_4
+  image: images/publications/semi-global-matching.png
 
 - id: doi:10.1021/ac801303x
+  image: images/publications/mass-spectrometry-analysis.png
 
 - id: doi:10.1109/TIT.2004.840864
+  image: images/publications/optimal-lattices.png
 
 - id: doi:10.1021/ci010376b
+  image: images/publications/chemical-subset-selection.png
 
 - id: doi:10.1063/1.477267
+  image: images/publications/HCTH.png
 
 - id: doi:10.1021/jm970732a
+  image: images/publications/3D-QSiAR.png
