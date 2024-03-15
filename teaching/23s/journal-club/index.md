@@ -8,17 +8,22 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 11.03.2024 in INF 205, SR 4.300 starting at 1:00pm  
+Next Seminar: 18.03.2024 in INF 205, SR 4.300 starting at 1:00pm  
 **Paper to be discussed:**
 
-**Deep Networks Always Grok and Here is Why**  
-*Ahmed Imtiaz Humayun, Randall Balestriero, Richard Baraniuk*  
-https://arxiv.org/abs/2402.15555
+**Deep Double Descent: Where Bigger Models and More Data Hurt**  
+*Preetum Nakkiran, Gal Kaplun, Yamini Bansal, Tristan Yang, Boaz Barak, Ilya Sutskever*  
+https://arxiv.org/abs/1912.02292
 
 
 ---
 
 **Recently discussed papers:**
+
+11.03.24  
+**Deep Networks Always Grok and Here is Why**  
+*Ahmed Imtiaz Humayun, Randall Balestriero, Richard Baraniuk*  
+https://arxiv.org/abs/2402.15555
 
 04.03.24  
 **Lie Point Symmetry and Physics-Informed Networks**  
