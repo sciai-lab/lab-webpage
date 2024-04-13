@@ -23,7 +23,7 @@ nav:
   flip=true
 %}
 
-Barbara Werner<br>
+Barbara Quintel<br>
 Lab Manager<br>
 Room 4.306<br>
 Im Neuenheimer Feld 205<br>
@@ -33,7 +33,7 @@ Im Neuenheimer Feld 205<br>
   include button.html
   type="email"
   text="Email"
-  link="hamprecht-lab-manager@iwr.uni-heidelberg.de"
+  link="barbara.quintel@iwr.uni-heidelberg.de"
 %}
 {%
   include button.html
