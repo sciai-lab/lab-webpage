@@ -8,17 +8,33 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 18.03.2024 in INF 205, SR 4.300 starting at 1:00pm  
-**Paper to be discussed:**
-
-**Deep Double Descent: Where Bigger Models and More Data Hurt**  
-*Preetum Nakkiran, Gal Kaplun, Yamini Bansal, Tristan Yang, Boaz Barak, Ilya Sutskever*  
-https://arxiv.org/abs/1912.02292
+Next Seminar: 29.04.2024 in INF 205, SR 4.300 starting at 1:00pm  
+**Paper to be discussed:** will be announced on Friday
 
 
 ---
 
 **Recently discussed papers:**
+
+22.04.24  
+**Position Paper: Bayesian Deep Learning in the Age of Large-Scale AI**  
+*Theodore Papamarkou, Maria Skoularidou, Konstantina Palla et al.*  
+https://arxiv.org/abs/2402.00809
+
+15.04.24  
+**Self-Rewarding Language Models**  
+*Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Xian Li, Sainbayar Sukhbaatar, Jing Xu, Jason Weston*  
+https://arxiv.org/abs/2401.10020
+
+25.03.24  
+**Learning in High Dimension Always Amounts to Extrapolation**  
+*Randall Balestriero, Jérôme Pesenti, and Yann LeCun*  
+https://arxiv.org/abs/2110.09485
+
+18.03.24  
+**Deep Double Descent: Where Bigger Models and More Data Hurt**  
+*Preetum Nakkiran, Gal Kaplun, Yamini Bansal, Tristan Yang, Boaz Barak, Ilya Sutskever*  
+https://arxiv.org/abs/1912.02292
 
 11.03.24  
 **Deep Networks Always Grok and Here is Why**  
