@@ -8,17 +8,23 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 29.04.2024 in INF 205, SR 4.300 starting at 1:00pm  
+Next Seminar: 06.05.2024 in INF 205, SR 4.300 starting at 1:00pm  
 **Paper to be discussed:**
 
 
-**A Practical Method for Constructing Equivariant Multilayer Perceptrons for Arbitrary Matrix Groups**  
-*Marc Finzi, Max Welling, Andrew Gordon Wilson*  
-https://proceedings.mlr.press/v139/finzi21a.html
+**Categorical Deep Learning: An Algebraic Theory of Architectures**  
+*Bruno Gavranović, Paul Lessard, Andrew Dudzik, Tamara von Glehn, João G. M. Araújo, Petar Veličković*  
+https://arxiv.org/pdf/2402.15332
+
 
 ---
 
 **Recently discussed papers:**
+
+29.04.2024  
+**A Practical Method for Constructing Equivariant Multilayer Perceptrons for Arbitrary Matrix Groups**  
+*Marc Finzi, Max Welling, Andrew Gordon Wilson*  
+https://proceedings.mlr.press/v139/finzi21a.html
 
 22.04.24  
 **Position Paper: Bayesian Deep Learning in the Age of Large-Scale AI**  
