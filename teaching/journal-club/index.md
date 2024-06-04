@@ -8,18 +8,33 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 06.05.2024 in INF 205, SR 4.300 starting at 1:00pm  
-**Paper to be discussed:**
-
-
-**Categorical Deep Learning: An Algebraic Theory of Architectures**  
-*Bruno Gavranović, Paul Lessard, Andrew Dudzik, Tamara von Glehn, João G. M. Araújo, Petar Veličković*  
-https://arxiv.org/pdf/2402.15332
+Next Seminar: 10.06.2024 in INF 205, SR 4.300 starting at 1:00pm  
+**Paper to be discussed:** will be announced on Friday
 
 
 ---
 
 **Recently discussed papers:**
+
+03.06.2024  
+**xLSTM: Extended Long Short-Term Memory**  
+*Maximilian Beck, Korbinian Pöppel, Markus Spanring et al.*  
+https://arxiv.org/abs/2405.04517
+
+28.05.2024  
+**Highly accurate protein structure prediction with AlphaFold**  
+*John Jumper, Richard Evans, Alexander Pritzel et al.*  
+https://www.nature.com/articles/s41586-021-03819-2
+
+13.05.2024  
+**KAN: Kolmogorov-Arnold Networks**  
+*Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljacic, Thomas Y. Hou, Max Tegmark*  
+https://arxiv.org/abs/2404.19756
+
+06.05.2024  
+**Categorical Deep Learning: An Algebraic Theory of Architectures**  
+*Bruno Gavranović, Paul Lessard, Andrew Dudzik, Tamara von Glehn, João G. M. Araújo, Petar Veličković*  
+https://arxiv.org/pdf/2402.15332
 
 29.04.2024  
 **A Practical Method for Constructing Equivariant Multilayer Perceptrons for Arbitrary Matrix Groups**  
