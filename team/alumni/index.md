@@ -9,6 +9,7 @@ This is an incomplete list of people who have worked with us in the past. A more
 Name | Role
 ---- | ----
 [Dmitry Kobak](/members/dmitry-kobak.html) | Visiting Professor
-[Lorenzo Cerrone](/members/lorenzo-cerrone.html) | Postdoctoral Researcher
 Fahimeh Moafian | Postdoctoral Researcher
+[Lorenzo Cerrone](/members/lorenzo-cerrone.html) | Postdoctoral Researcher
+[Soeren Fetsch](/members/soeren-fetsch.html) | BSc Student
 
