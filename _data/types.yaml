@@ -26,6 +26,10 @@ phd:
   icon:
   description: PhD Student
 
+phd-joint-supervision:
+  icon:
+  description: PhD Student in joint supervision
+
 research assistant:
   icon:
   description: Research Assistant

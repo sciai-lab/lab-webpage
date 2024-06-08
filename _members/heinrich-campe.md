@@ -1,7 +1,7 @@
 ---
 name: Heinrich Campe
 image: images/team/heinrich-campe.jpg
-role: phd
+role: phd-joint-supervision
 links:
   github: hcampe
 ---
