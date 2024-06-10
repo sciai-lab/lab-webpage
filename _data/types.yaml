@@ -84,6 +84,12 @@ phone:
   text: Phone
   link: tel:$VALUE
 
+phone-displayed:
+  icon: fa-solid fa-phone
+  tooltip: Phone number
+  text: Phone
+  link: tel:$VALUE
+
 address:
   icon: fa-solid fa-map-location-dot
   text: Address
