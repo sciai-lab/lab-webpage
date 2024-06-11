@@ -42,6 +42,10 @@ bachelor:
   icon:
   description: BSc Student
 
+intern:
+  icon:
+  description: Intern
+
 alumni:
   icon:
   description: Former Member
