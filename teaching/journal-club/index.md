@@ -8,16 +8,21 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 17.06.2024 in INF 205, SR 4.300 starting at 1:00pm  
+Next Seminar: 24.06.2024 in INF 205, SR 4.300 starting at 3:33pm  
 **Paper to be discussed:** will be
 
-**The Free Energy Principle made simpler but not too simple**  
-*Karl Friston, Lancelot Da Costa, Noor Sajid, Conor Heins, Kai Ueltzhöffer, Grigorios A. Pavliotis, Thomas Parr*  
-https://www.sciencedirect.com/science/article/pii/S037015732300203X
+**Why do tree-based models still outperform deep learning on typical tabular data?**  
+*Leo Grinsztajn, Edouard Oyallon, Gael Varoquaux*  
+https://proceedings.neurips.cc/paper_files/paper/2022/hash/0378c7692da36807bdec87ab043cdadc-Abstract-Datasets_and_Benchmarks.html
 
 ---
 
 **Recently discussed papers:**
+
+17.06.2024  
+**The Free Energy Principle made simpler but not too simple**  
+*Karl Friston, Lancelot Da Costa, Noor Sajid, Conor Heins, Kai Ueltzhöffer, Grigorios A. Pavliotis, Thomas Parr*  
+https://www.sciencedirect.com/science/article/pii/S037015732300203X
 
 10.06.2024  
 **Nonlocal Machine-Learned Exchange Functional for Molecules and Solids**  
