@@ -1,7 +1,7 @@
 ---
 name: Enrique Fita Sanmartin
 image: images/team/enrique-fita-sanmartin.jpeg
-role: resesarch assistant
+role: postdoc
 links:
 ---
 
