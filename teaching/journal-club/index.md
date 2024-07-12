@@ -8,17 +8,24 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 08.07.2024 in INF 205, SR 4.300 starting at 3:33pm  
+Next Seminar: 15.07.2024 in INF 205, SR 4.300 starting at 3:33pm  
 **Paper to be discussed:** will be
 
-**Accurate structure prediction of biomolecular interactions with AlphaFold 3**  
-*Josh Abramson, Jonas Adler, Jack Dunger et al.*  
-https://www.nature.com/articles/s41586-024-07487-w
+**Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models**  
+*Yixin Liu, Kai Zhang, Yuan Li et al.*  
+https://arxiv.org/abs/2402.17177
+
+
 
 
 ---
 
 **Recently discussed papers:**
+
+08.07.2024  
+**Accurate structure prediction of biomolecular interactions with AlphaFold 3**  
+*Josh Abramson, Jonas Adler, Jack Dunger et al.*  
+https://www.nature.com/articles/s41586-024-07487-w
 
 01.07.2024  
 **A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems**  
