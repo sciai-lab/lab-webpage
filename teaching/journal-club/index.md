@@ -1,5 +1,5 @@
 ---
-title: Journal Club SuSe23/24
+title: Journal Club
 ---
 # Journal Club: Advanced Machine Learning
 
