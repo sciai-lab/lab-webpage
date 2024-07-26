@@ -73,8 +73,7 @@ A: Yes, like every MSc core course, though likely by a different professor.
     
 Q: Is there a text book?
 
-A: There is unfortunately not a single compact book covering the entire contents of the course. Most material is covered in the 2000 pages of Murphy's volumes [https://probml.github.io/pml-book/book1.html](1) and [https://probml.github.io/pml-book/book2.html](2). 
-     I will try and make a script available for at least the bulk of the contents. 
+A: There is unfortunately not a single compact book covering the entire contents of the course. Most material is covered in the 2000 pages of Murphy's volumes [1](https://probml.github.io/pml-book/book1.html) and [2](https://probml.github.io/pml-book/book2.html). I will try and make a script available for at least the bulk of the contents. 
     
 Q: Exam modalities?
     
@@ -82,5 +81,5 @@ A: To be admitted to the written exam at the end of the semester, you need to ga
 
 Q: 9AM is really early. Is it okay if I come a bit later? 
 
-A: No. I try and introduce the material of the day in a didactic manner at the beginning, and find it disturbing if people come late. We start early so that we can finish by 10h45, allowing you to transit to your next lectures without hurrying. (And yes, I think 9AM is early, too.) 
+A: No. I try and introduce the material of the day in a didactic manner at the beginning, and you disturb others by coming late. We start early so that we can finish by 10h45, allowing you to smoothly transit to your next lectures. (And yes, I think 9AM is early, too.) 
 
