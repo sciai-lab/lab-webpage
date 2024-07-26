@@ -16,27 +16,27 @@
     data-big
   {% endif %}
 >
-  <a href="{{ "/" | relative_url }}" class="home">
+  <div class="home">
     {% if logo %}
-      <span class="logo">
+      <a href="{{ "/" | relative_url }}" class="logo">
         {% if svg %}
           {{ svg | file_read }}
         {% else %}
           <img src="{{ logo | relative_url }}" alt="logo">
         {% endif %}
-      </span>
+      </a>
     {% endif %}
     {% if site.logo-text != false %}
-      <span class="title" data-tooltip="Home">
+      <span class="title">
         {% if site.title and site.show-title != false %}
-          <span>{{ site.title }}</span>
+          <a href="{{ "/" | relative_url }}" data-tooltip="Home">{{ site.title }}</a>
         {% endif %}
         {% if site.subtitle and site.show-subtitle != false %}
           <span>{{ site.subtitle }}</span>
         {% endif %}
       </span>
     {% endif %}
-  </a>
+  </div>
 
   <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 

@@ -7,6 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-chalkboard-user" %}Teaching
 
+## Winter semester 2024
+
+* Lecture: [Machine Learning and Physics](24w/mlph/)
+* Journal Club: [Advanced Machine Learning](journal-club/)
+
 ## Summer semester 2024 
 
 * Lecture: [Geometric Machine Learning in Quantum Chemistry](24s/gmlqc/)
