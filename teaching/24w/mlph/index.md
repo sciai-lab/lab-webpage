@@ -6,6 +6,11 @@ title: Machine Learning and Physics
 
 Machine learning has become a transformational force in our society, and is profoundly impacting society in ways both good and bad. On the good side, machine learning fuels scientific breakthroughs such as solving the protein folding problem, or creating large language models that by now show sparks of artificial general intelligence. On the bad side, convincing deep fakes are used for manipulation, and machine learning supports surveillance in totalitarian states. 
 
+{%
+  include figure.html
+  image="images/mlph.png"
+  width="700px"
+%}
 
 ## Contents
 
@@ -55,31 +60,24 @@ The main lectures are on Tuesdays and Thursdays from 9h00 (NOT 9h15!) until 10h4
 
 ## FAQ
 
-Q: Do I need prior knowledge in machine learning?
-
+Q: Do I need prior knowledge in machine learning? <br>
 A: No.
 
-Q: I just want to learn the basics. Is this the right course?
-
-A: Students liked my 2022 rendition, but noted a steep learning curve; if you only want to cover the basics, please check for slower-paced alternatives such as the "Essentials of ML".
+Q: I just want to learn the basics. Is this the right course? <br>
+A: Students liked my 2022 rendition, but noted a steep learning curve; if you only want to cover the basics, please check for slower-paced alternatives such as the "Machine Learning Essentials".
     
-Q: Is this course about deep learning?
-
+Q: Is this course about deep learning? <br>
 A: Neural networks will play an important role; but this course is more about principles. We will not discuss the latest architectures in any detail.
     
-Q: Will this course be repeated next year?
-
+Q: Will this course be repeated next year? <br>
 A: Yes, like every MSc core course, though likely by a different professor.  
     
-Q: Is there a text book?
-
+Q: Is there a text book? <br>
 A: There is unfortunately not a single compact book covering the entire contents of the course. Most material is covered in the 2000 pages of Murphy's volumes [1](https://probml.github.io/pml-book/book1.html) and [2](https://probml.github.io/pml-book/book2.html). I will try and make a script available for at least the bulk of the contents. 
     
-Q: Exam modalities?
-    
+Q: Exam modalities? <br>
 A: To be admitted to the written exam at the end of the semester, you need to gain 50% of the points in the exercise sheets.
 
-Q: 9AM is really early. Is it okay if I come a bit later? 
-
+Q: 9AM is really early. Is it okay if I come a bit later? <br>
 A: No. I try and introduce the material of the day in a didactic manner at the beginning, and you disturb others by coming late. We start early so that we can finish by 10h45, allowing you to smoothly transit to your next lectures. (And yes, I think 9AM is early, too.) 
 
