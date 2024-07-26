@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Scientific AI 
-subtitle: Hamprecht Lab, <a href='https://www.iwr.uni-heidelberg.de' data-tooltip='IWR homepage'>IWR</a>, <a href='https:/www.uni-heidelberg.de' data-tooltip='Heidelberg University homepage'>Heidelberg University</a>
+subtitle: Hamprecht Lab, <a href='https://www.iwr.uni-heidelberg.de' data-tooltip='IWR homepage'>IWR</a>, <a href='https://www.uni-heidelberg.de' data-tooltip='Heidelberg University homepage'>Heidelberg University</a>
 description: Developing principled AI methods to solve hard problems from the natural sciences. 
 header: images/Cube_structure_based_on_nine_modules.jpg
 footer: images/jenn-02.jpg
