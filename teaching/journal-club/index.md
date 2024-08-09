@@ -8,19 +8,33 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 15.07.2024 in INF 205, SR 4.300 starting at 3:33pm  
+Next Seminar: 12.08.2024 in INF 205, SR 4.300 starting at 11:00am  
 **Paper to be discussed:** will be
 
-**Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models**  
-*Yixin Liu, Kai Zhang, Yuan Li et al.*  
-https://arxiv.org/abs/2402.17177
-
+**No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance**  
+*Vishaal Udandarao, Ameya Prabhu, Adhiraj Ghosh, Yash Sharma, Philip H.S. Torr, Adel Bibi, Samuel Albanie, Matthias Bethge*  
+https://arxiv.org/abs/2404.04125
 
 
 
 ---
 
 **Recently discussed papers:**
+
+05.08.2024    
+**Discovering Symmetry Breaking in Physical Systems with Relaxed Group Convolution**  
+*R Wang, E Hofgard, H Gao, R Walters, T Smidt*  
+https://openreview.net/pdf?id=59oXyDTLJv
+
+30.07.2024  
+**Tensor Frames -- How To Make Any Message Passing Network Equivariant**  
+*Peter Lippmann, Gerrit Gerhartz, Roman Remme, Fred A. Hamprecht*  
+https://arxiv.org/abs/2405.15389
+
+15.07.2024  
+**Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models**  
+*Yixin Liu, Kai Zhang, Yuan Li et al.*  
+https://arxiv.org/abs/2402.17177
 
 08.07.2024  
 **Accurate structure prediction of biomolecular interactions with AlphaFold 3**  
