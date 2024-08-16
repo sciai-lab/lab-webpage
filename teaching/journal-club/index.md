@@ -8,18 +8,24 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 12.08.2024 in INF 205, SR 4.300 starting at 11:00am  
+Next Seminar: 19.08.2024 in INF 205, SR 4.300 starting at 11:00am  
 **Paper to be discussed:** will be
 
-**No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance**  
-*Vishaal Udandarao, Ameya Prabhu, Adhiraj Ghosh, Yash Sharma, Philip H.S. Torr, Adel Bibi, Samuel Albanie, Matthias Bethge*  
-https://arxiv.org/abs/2404.04125
+**Scaling rectified flow transformers for high-resolution image synthesis**  
+*P Esser, S Kulal, A Blattmann, R Entezari et al.*  
+https://openreview.net/pdf?id=FPnUhsQJ5B
+
 
 
 
 ---
 
 **Recently discussed papers:**
+
+12.08.2024  
+**No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance**  
+*Vishaal Udandarao, Ameya Prabhu, Adhiraj Ghosh, Yash Sharma, Philip H.S. Torr, Adel Bibi, Samuel Albanie, Matthias Bethge*  
+https://arxiv.org/abs/2404.04125
 
 05.08.2024    
 **Discovering Symmetry Breaking in Physical Systems with Relaxed Group Convolution**  
