@@ -10,6 +10,8 @@ Name | Role
 ---- | ----
 [Dmitry Kobak](/members/dmitry-kobak.html) | Visiting Professor
 Fahimeh Moafian | Postdoctoral Researcher
+[Finn Prem](/members/finn-prem.html) | BSc Student
+[Jannis Demel](/members/jannis-demel.html)| Intern
 [Lorenzo Cerrone](/members/lorenzo-cerrone.html) | Postdoctoral Researcher
 [Soeren Fetsch](/members/soeren-fetsch.html) | BSc Student
 
