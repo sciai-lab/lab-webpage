@@ -8,19 +8,39 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 19.08.2024 in INF 205, SR 4.300 starting at 11:00am  
-**Paper to be discussed:** will be
-
-**Scaling rectified flow transformers for high-resolution image synthesis**  
-*P Esser, S Kulal, A Blattmann, R Entezari et al.*  
-https://openreview.net/pdf?id=FPnUhsQJ5B
-
+Next Seminar: 23.09.2024 in INF 205, SR 4.300 starting at 11:00am  
+**Paper to be discussed:** will be announced on Friday
 
 
 
 ---
 
 **Recently discussed papers:**
+
+16.09.2024  
+**Memorization Through the Lens of Curvature of Loss Function Around Samples**  
+*Isha Garg, Deepak Ravikumar, Kaushik Roy*  
+https://proceedings.mlr.press/v235/garg24a.html
+
+09.09.2024  
+**Weisfeiler-Leman at the margin: When more expressivity matters**  
+*Billy Joe Franks, Christopher Morris, Ameya Velingker, Floris Geerts*  
+https://proceedings.mlr.press/v235/franks24a.html
+
+02.09.2024  
+**No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance**  
+*Vishaal Udandarao, Ameya Prabhu, Adhiraj Ghosh, Yash Sharma, Philip H.S. Torr, Adel Bibi, Samuel Albanie, Matthias Bethge*  
+https://arxiv.org/abs/2404.04125
+
+26.08.2024  
+**The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning**  
+*Micah Goldblum, Marc Finzi, Keefer Rowan, Andrew Gordon Wilson*  
+https://arxiv.org/abs/2304.05366
+
+19.08.2024  
+**Scaling rectified flow transformers for high-resolution image synthesis**  
+*P Esser, S Kulal, A Blattmann, R Entezari et al.*  
+https://openreview.net/pdf?id=FPnUhsQJ5B
 
 12.08.2024  
 **No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance**  
