@@ -239,12 +239,8 @@
   plugin: sources.py
   file: sources-recent.yaml
 - id: url:https://openreview.net/forum?id=B8a1FcY0vi
-  title: From $t$-SNE to UMAP with contrastive learning
-  authors:
-  - Sebastian Damrich
-  - "Niklas B\xF6hm"
-  - Fred A. Hamprecht
-  - Dmitry Kobak
+  title: ''
+  authors: []
   publisher: ICLR
   date: '2023-02-01'
   link: https://openreview.net/forum?id=B8a1FcY0vi
