@@ -8,16 +8,21 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 21.10.2024 in INF 205, SR 4.300 starting at 11:00am  
+Next Seminar: 28.10.2024 in INF 205, SR 4.300 starting at 11:00am  
 **Paper to be discussed:**
 
-**Smooth, exact rotational symmetrization for deep learning on point clouds**    
-*Sergey Pozdnyakov and Michele Ceriotti*  
-https://proceedings.neurips.cc/paper_files/paper/2023/hash/fb4a7e3522363907b26a86cc5be627ac-Abstract-Conference.html
+**Homomorphism Counts for Graph Neural Networks: All About That Basis**  
+*Emily Jin, Michael Bronstein, İsmail İlkan Ceylan, Matthias Lanzinger*  
+https://arxiv.org/abs/2402.08595
 
 ---
 
 **Recently discussed papers:**
+
+14.10.2024  
+**Smooth, exact rotational symmetrization for deep learning on point clouds**    
+*Sergey Pozdnyakov and Michele Ceriotti*  
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/fb4a7e3522363907b26a86cc5be627ac-Abstract-Conference.html
 
 07.10.2024  
 **Position: Topological Deep Learning is the New Frontier for Relational Learning**  
