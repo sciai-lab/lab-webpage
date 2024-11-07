@@ -14,4 +14,6 @@ Fahimeh Moafian | Postdoctoral Researcher
 [Jannis Demel](/members/jannis-demel.html)| Intern
 [Lorenzo Cerrone](/members/lorenzo-cerrone.html) | Postdoctoral Researcher
 [Soeren Fetsch](/members/soeren-fetsch.html) | BSc Student
+{% assign data = site["members"] | default: emptyarray | data_filter: "status: alumni" %}{% for member in data %}{% assign role = site.data.types[member.role].description %} [{{member.name}}]({{member.url}}) | {{role}}
+{% endfor %}
 
