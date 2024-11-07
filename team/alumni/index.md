@@ -8,12 +8,6 @@ This is an incomplete list of people who have worked with us in the past. A more
 
 Name | Role
 ---- | ----
-[Dmitry Kobak](/members/dmitry-kobak.html) | Visiting Professor
-Fahimeh Moafian | Postdoctoral Researcher
-[Finn Prem](/members/finn-prem.html) | BSc Student
-[Jannis Demel](/members/jannis-demel.html)| Intern
-[Lorenzo Cerrone](/members/lorenzo-cerrone.html) | Postdoctoral Researcher
-[Soeren Fetsch](/members/soeren-fetsch.html) | BSc Student
 {% assign data = site["members"] | default: emptyarray | data_filter: "status: alumni" %}{% for member in data %}{% assign role = site.data.types[member.role].description %} [{{member.name}}]({{member.url}}) | {{role}}
-{% endfor %}
+{% endfor %} Fahimeh Moafian | Postdoctoral Researcher
 
