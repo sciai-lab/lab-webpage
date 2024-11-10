@@ -6,12 +6,19 @@ title: Alumni
 
 This is an incomplete list of people who have worked with us in the past. A more comprehensive list will follow soon.
 
+
+{% assign alumni = site["members"] | default: emptyarray | data_filter: "status: alumni" %}
+{% assign alumni = alumni | concat: site.data.alumni-list %}
+{% assign alumni = alumni | sort: "name" %}
+
 Name | Role
 ---- | ----
-{% assign data = site["members"] | default: emptyarray | data_filter: "status: alumni" -%}
-{% for member in data -%}
+{% for member in alumni -%}
     {% assign role = site.data.types[member.role].description -%}
-    [{{member.name}}]({{member.url}}) | {{role}}
+    {% if member.url -%}
+        [{{member.name}}]({{member.url}}) | {{role}}
+    {% else -%}
+        {{member.name}} | {{role}}
+    {% endif -%}
 {% endfor -%}
-Fahimeh Moafian | Postdoctoral Researcher
 
