@@ -8,16 +8,26 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 28.10.2024 in INF 205, SR 4.300 starting at 11:00am  
+Next Seminar: 11.11.2024 in INF 205, SR 4.300 starting at 11:00am  
 **Paper to be discussed:**
 
-**Homomorphism Counts for Graph Neural Networks: All About That Basis**  
-*Emily Jin, Michael Bronstein, İsmail İlkan Ceylan, Matthias Lanzinger*  
-https://arxiv.org/abs/2402.08595
+**Let's Verify Step by Step**  
+*Hunter Lightman, Vineet Kosaraju, Yura Burda et al.*  
+https://arxiv.org/abs/2305.20050
 
 ---
 
 **Recently discussed papers:**
+
+04.11.2024  
+**SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**  
+*Yizhou Chi, Yizhang Lin, Sirui Hong et al.*  
+https://arxiv.org/abs/2410.17238v1
+
+28.10.2024  
+**Homomorphism Counts for Graph Neural Networks: All About That Basis**  
+*Emily Jin, Michael Bronstein, İsmail İlkan Ceylan, Matthias Lanzinger*  
+https://arxiv.org/abs/2402.08595
 
 14.10.2024  
 **Smooth, exact rotational symmetrization for deep learning on point clouds**    
