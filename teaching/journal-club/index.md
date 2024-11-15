@@ -8,16 +8,23 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 11.11.2024 in INF 205, SR 4.300 starting at 11:00am  
+Next Seminar: 18.11.2024 in INF 205, SR 4.300 starting at 11:00am  
 **Paper to be discussed:**
 
-**Let's Verify Step by Step**  
-*Hunter Lightman, Vineet Kosaraju, Yura Burda et al.*  
-https://arxiv.org/abs/2305.20050
+**Does equivariance matter at scale?**  
+*Johann Brehmer, Sönke Behrends, Pim de Haan, Taco Cohen*  
+https://arxiv.org/abs/2410.23179
+
+
 
 ---
 
 **Recently discussed papers:**
+
+11.11.2024  
+**Let's Verify Step by Step**  
+*Hunter Lightman, Vineet Kosaraju, Yura Burda et al.*  
+https://arxiv.org/abs/2305.20050
 
 04.11.2024  
 **SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**  
