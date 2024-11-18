@@ -252,14 +252,10 @@
   plugin: sources.py
   file: sources-recent.yaml
 - id: url:https://proceedings.neurips.cc/paper_files/paper/2022/hash/0206c1c20a18915da23df5e61966fc6a-Abstract-Conference.html
-  title: Theory and Approximate Solvers for Branched Optimal Transport with Multiple
-    Sources
-  authors:
-  - Peter Lippmann
-  - "Enrique Fita Sanmart\xEDn"
-  - Fred A. Hamprecht
+  title: ''
+  authors: []
   publisher: NeurIPS
-  date: '2022-12-06'
+  date: ''
   link: https://proceedings.neurips.cc/paper_files/paper/2022/hash/0206c1c20a18915da23df5e61966fc6a-Abstract-Conference.html
   image: images/publications/branched-BOT.png
   plugin: sources.py
@@ -277,12 +273,10 @@
   plugin: sources.py
   file: sources-recent.yaml
 - id: url:https://proceedings.neurips.cc/paper/2021/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html
-  title: On UMAP' s True Loss Function
-  authors:
-  - Sebastian Damrich
-  - Fred A Hamprecht
+  title: ''
+  authors: []
   publisher: NeurIPS
-  date: '2021-01-01'
+  date: ''
   link: https://proceedings.neurips.cc/paper/2021/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html
   image: images/publications/UMAP-loss.png
   plugin: sources.py
