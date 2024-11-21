@@ -17,7 +17,11 @@
     >
       {% include icon.html icon=button.icon %}
       {% if button.text and button.text != "" %}
-        <span>{{ button.text }}</span>
+        {% if button.type == "phone-displayed" %}
+          <span>{{ button.link | slice: 4, 99}}</span>
+        {% else %}
+          <span>{{ button.text }}</span>
+        {% endif %}
       {% endif %}
     </a>
   </div>
