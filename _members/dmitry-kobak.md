@@ -1,7 +1,8 @@
 ---
 name: Dmitry Kobak
 image: images/team/dmitry-kobak.jpg
-role: alumni
+role: visiting-prof
+status: alumni
 links:
   google-scholar: BUQbD5kAAAAJ
 ---

@@ -6,12 +6,19 @@ title: Alumni
 
 This is an incomplete list of people who have worked with us in the past. A more comprehensive list will follow soon.
 
+
+{% assign alumni = site["members"] | default: emptyarray | data_filter: "status: alumni" %}
+{% assign alumni = alumni | concat: site.data.alumni-list %}
+{% assign alumni = alumni | sort: "name" %}
+
 Name | Role
 ---- | ----
-[Dmitry Kobak](/members/dmitry-kobak.html) | Visiting Professor
-Fahimeh Moafian | Postdoctoral Researcher
-[Finn Prem](/members/finn-prem.html) | BSc Student
-[Jannis Demel](/members/jannis-demel.html)| Intern
-[Lorenzo Cerrone](/members/lorenzo-cerrone.html) | Postdoctoral Researcher
-[Soeren Fetsch](/members/soeren-fetsch.html) | BSc Student
+{% for member in alumni -%}
+    {% assign role = site.data.types[member.role].description -%}
+    {% if member.url -%}
+        [{{member.name}}]({{member.url}}) | {{role}}
+    {% else -%}
+        {{member.name}} | {{role}}
+    {% endif -%}
+{% endfor -%}
 

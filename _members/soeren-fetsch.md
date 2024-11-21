@@ -1,7 +1,8 @@
 ---
 name: Soeren Fetsch
 image: images/team/soeren-fetsch.jpg
-role: alumni 
+role: bachelor
+status: alumni
 links:
   github: soerenfetsch
 ---

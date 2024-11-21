@@ -1,7 +1,8 @@
 ---
 name: Finn Prem
 image: images/team/finn-prem.jpg
-role: alumni
+role: bachelor
+status: alumni
 links:
 ---
 
