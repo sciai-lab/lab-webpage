@@ -8,18 +8,23 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 18.11.2024 in INF 205, SR 4.300 starting at 11:00am  
+Next Seminar: 25.11.2024 in INF 205, SR 4.300 starting at 11:00am  
 **Paper to be discussed:**
 
-**Does equivariance matter at scale?**  
-*Johann Brehmer, Sönke Behrends, Pim de Haan, Taco Cohen*  
-https://arxiv.org/abs/2410.23179
-
+**Learning Equivariant Non-Local Electron Density Functionals**  
+*Nicholas Gao, Eike Eberhard, Stephan Günnemann*  
+https://arxiv.org/pdf/2410.07972
 
 
 ---
 
 **Recently discussed papers:**
+
+18.11.2024  
+**Does equivariance matter at scale?**  
+*Johann Brehmer, Sönke Behrends, Pim de Haan, Taco Cohen*  
+https://arxiv.org/abs/2410.23179
+
 
 11.11.2024  
 **Let's Verify Step by Step**  
