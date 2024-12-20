@@ -19,3 +19,7 @@
   opacity: 0.25;
   z-index: -1;
 }
+
+footer.background::before {
+  opacity: 0.5;
+}
