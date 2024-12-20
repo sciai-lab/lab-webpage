@@ -1,6 +1,6 @@
 ---
 name: Simon Wagner
-image:
+image: images/team/simon_wagner.jpg
 role: phd
 links:
 ---
