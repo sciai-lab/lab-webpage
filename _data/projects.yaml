@@ -1,7 +1,7 @@
 - title: Kinetic energy functional
   subtitle: Making orbital-free density functional theory a reality 
   group: featured
-  image: images/pretty_perturbed_mol0.webp
+  image: images/density_slice.webp
   link: https://pubs.aip.org/aip/jcp/article/159/14/144113/2916356/KineticNet-Deep-learning-a-transferable-kinetic
   description: We work on making quantum chemical predictions with chemical accuracy, without orbitals and at a fraction of the cost.  
   
