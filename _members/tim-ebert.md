@@ -1,7 +1,7 @@
 ---
 name: Tim Ebert
 image: images/team/tim-ebert.jpeg
-role: master
+role: research assistant
 links:
     github: TimLEbert
 ---

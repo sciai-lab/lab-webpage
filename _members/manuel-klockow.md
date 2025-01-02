@@ -1,7 +1,7 @@
 ---
 name: Manuel Klockow
 image: images/team/manuel-klockow.jpg
-role: master
+role: phd
 links:
 ---
 

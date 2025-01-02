@@ -1,7 +1,7 @@
 ---
 name: Dominik Geng
 image: images/team/dominik-geng.jpg
-role: master
+role: research assistant
 links:
   github: Splendus
   linkedin: dominik-geng-269253262

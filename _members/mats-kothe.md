@@ -2,6 +2,7 @@
 name: Mats Kothe
 image: images/team/mats-kothe.jpg
 role: bachelor
+status: alumni
 links:
 ---
 
