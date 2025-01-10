@@ -8,17 +8,27 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 02.12.2024 in INF 205, SR 4.300 starting at 11:00am  
+Next Seminar: 13.01.2025 in INF 205, SR 4.300 starting at 11:00am  
 **Paper to be discussed:**
 
-**Geometric Algebra Transformer**  
-*Johann Brehmer, Pim de Haan, Sönke Behrends, Taco S. Cohen*  
-https://proceedings.neurips.cc/paper_files/paper/2023/hash/6f6dd92b03ff9be7468a6104611c9187-Abstract-Conference.html
+**Normalizing Flows are Capable Generative Models**  
+*Shuangfei Zhai, Ruixiang Zhang, Preetum Nakkiran et al.*  
+https://arxiv.org/abs/2412.06329
 
 
 ---
 
 **Recently discussed papers:**
+
+17.02.2024  
+**Higher-Rank Irreducible Cartesian Tensors forEquivariant Message Passing**  
+*Viktor Zaverkin, Francesco Alesiani, Takashi Maruyama et al.*  
+https://arxiv.org/pdf/2405.14253
+
+02.12.2024
+**Geometric Algebra Transformer**  
+*Johann Brehmer, Pim de Haan, Sönke Behrends, Taco S. Cohen*  
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/6f6dd92b03ff9be7468a6104611c9187-Abstract-Conference.html
 
 25.11.2024
 **Learning Equivariant Non-Local Electron Density Functionals**  
