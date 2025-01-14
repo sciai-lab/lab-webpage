@@ -7,6 +7,6 @@ links:
 
 # Luca Adams
 
-I am currently tutor for the lecture Machine Learning and Physics while pursing my bachelor in physics. My research interests lie in the development of algorithms for the prediction of chemical properties on both classical and quantum computers.
+I am currently a tutor for the lecture Machine Learning and Physics while pursuing my bachelor in physics. My research interests lie in the development of algorithms for the prediction of chemical properties on both classical and quantum computers.
 
 Outside of the lab I like to game, as well as explore nature.
