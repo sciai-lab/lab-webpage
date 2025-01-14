@@ -1,7 +1,7 @@
 ---
 name: Luca Adams
 image: images/team/
-role: Student Assistant
+role: student assistant
 links:
 ---
 
