@@ -7,7 +7,7 @@ links:
 
 # Manuel Klockow
 
-I am currently working on my physics master thesis in the Scientific AI lab. Before going to Heidelberg, I studied physics and computer science at TU Darmstadt and FSU Jena. My research interests include machine learning and its applications in physics, which is why I am currently working on applying equivariant machine learning to density functional theory. 
+I am currently working on my physics PhD in the Scientific AI lab. Before going to Heidelberg, I studied physics and computer science at TU Darmstadt and FSU Jena. My research interests include machine learning and its applications in physics, which is why I am currently working on applying equivariant machine learning to density functional theory. 
 
 In addition, I also have a deep interest in theoretical physics, which was my main focus next to machine learning during my studies. 
 
