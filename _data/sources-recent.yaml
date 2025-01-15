@@ -1,3 +1,11 @@
+- id: url:https://openreview.net/forum?id=1Fc2Xa2cDK
+  publisher: NeurIPS
+  image: images/publications/truth-is-universal.jpg
+
+- id: doi:10.1007/978-3-031-72390-2_29
+  publisher: MICCAI
+  image: images/publications/syncellfactory.jpg
+
 - id: doi:10.1063/5.0158275
   publisher: JCP
   image: images/publications/KineticNet.png
@@ -23,4 +31,3 @@
 - id: url:https://proceedings.neurips.cc/paper/2021/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html
   publisher: NeurIPS
   image: images/publications/UMAP-loss.png
-
