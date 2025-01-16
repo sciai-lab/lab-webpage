@@ -1,6 +1,6 @@
 ---
 name: Corinna Steffen
-image: images/team/
+image: images/team/corinna-steffen.jpg
 role: intern
 links:
 ---
