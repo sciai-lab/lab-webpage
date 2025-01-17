@@ -8,17 +8,22 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 13.01.2025 in INF 205, SR 4.300 starting at 11:00am  
+Next Seminar: 20.01.2025 in INF 205, SR 4.300 starting at 11:00am  
 **Paper to be discussed:**
 
-**Normalizing Flows are Capable Generative Models**  
-*Shuangfei Zhai, Ruixiang Zhang, Preetum Nakkiran et al.*  
-https://arxiv.org/abs/2412.06329
+**Accurate predictions on small data with a tabular foundation model**  
+*Noah Hollmann, Samuel Müller, Lennart Purucker, Arjun Krishnakumar, Max Körfer, Shi Bin Hoo, Robin Tibor Schirrmeister, Frank Hutter*  
+https://www.nature.com/articles/s41586-024-08328-6
 
 
 ---
 
 **Recently discussed papers:**
+
+13.01.2025  
+**Normalizing Flows are Capable Generative Models**  
+*Shuangfei Zhai, Ruixiang Zhang, Preetum Nakkiran et al.*  
+https://arxiv.org/abs/2412.06329
 
 17.02.2024  
 **Higher-Rank Irreducible Cartesian Tensors forEquivariant Message Passing**  
