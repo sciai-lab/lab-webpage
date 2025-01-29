@@ -1,7 +1,7 @@
 ---
 name: Roman Remme
 image: images/team/roman-remme.jpeg
-role: phd
+role: postdoc
 links:
   github: imagirom
   instagram: imagirom_
