@@ -28,9 +28,9 @@ Being able to do so is not only of great theoretical interest: it paves the way 
 
 The entire team is now focused on developing machine learning methods to *learn* the elusive functional. If successful, this will dramatically speed up the prediction of molecular properties, paving the way to address previously inaccessible questions in the molecular and life sciences. 
 
-{% include citation.html %}
+{% include list.html data="citations" component="citation" filters="id: doi:10.1063/5.0158275" style="rich" %}
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+<!-- {% include list.html component="card" data="projects" filters="group: featured" %} -->
 
 {% include section.html %}
 
