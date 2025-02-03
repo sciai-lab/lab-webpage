@@ -17,8 +17,8 @@ The most universal approach to such predictions relies on quantum mechanics. We 
 
 {%
   include button.html
-  link="https://pubs.aip.org/aip/jcp/article/159/14/144113/2916356/KineticNet-Deep-learning-a-transferable-kinetic"
-  text="Our latest in Density Functional Theory"
+  link="projects"
+  text="Our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
