@@ -1,1 +1,1 @@
-Sitemap: /https://sciai-lab.org/sitemap.xml
+Sitemap: /sitemap.xml
