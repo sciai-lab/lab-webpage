@@ -356,6 +356,7 @@
   <script src="/_scripts/tooltip.js"></script>
 
 
+<script>MathJax={"tex":{"inlineMath":[["$","$"],["\\(","\\)"]],"displayMath":[["$$","$$"],["\\[","\\]"]]},"svg":{"fontCache":"global"}}</script><script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 
   <body>
@@ -525,30 +526,63 @@
   size: ;
 -->
 
-<h2 id="current-focus">Current focus</h2>
+<h2 id="current-focus-orbital-free-density-functional-theory">Current focus: Orbital-free density functional theory</h2>
 
-<div class="card" data-style="">
-  <a href="https://pubs.aip.org/aip/jcp/article/159/14/144113/2916356/KineticNet-Deep-learning-a-transferable-kinetic" aria-label="Kinetic energy functional" class="card-image">
-    <img src="/images/density_slice.webp" alt="Kinetic energy functional" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+<p><strong>What is the kinetic energy of a given molecular ground state electron density? While the answer matters, and is known to exist in principle, so far no-one knows how to find it.</strong></p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="Slice through the density difference to the ground state of a molecule.">
+    <img src="/images/density_slice.webp" style="
+        width: 400px;
+        max-height: unset;
+      " alt="Slice through the density difference to the ground state of a molecule." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
+  
+    <figcaption class="figure-caption">
+      Slice through the density difference to the ground state of a molecule.
 
-  <div class="card-text">
-    
-      <a href="https://pubs.aip.org/aip/jcp/article/159/14/144113/2916356/KineticNet-Deep-learning-a-transferable-kinetic" class="card-title">
-        Kinetic energy functional
+    </figcaption>
+  
+</figure>
+
+<p>When predicting the properties of a molecule, it is natural to invoke quantum mechanics to describe the interacting electrons in terms of their many-body wave function $\psi(x_1, …, x_N)$. For sizeable molecules, this is too expensive and instead Kohn-Sham density functional theory (KS-DFT) is routinely evoked. The latter models the same system merely via one-body functions $\phi_1 (x_1)$, …, $\phi_N (x_N)$ describing non-interacting electrons moving in an effective potential created by all others. Although highly successful in practice, Kohn-Sham DFT remains a sort of band-aid solution. Why?</p>
+
+<p>In the 1960s, Hohenberg and Kohn made a tantalizing discovery: for systems in their electronic ground state, knowledge of the electron density alone suffices to infer the exact electronic ground state energy, and wave functions or “orbitals” are not needed! To find the ground state electron density, one minimizes its overall energy in the potential created by atomic nuclei. The overall energy has, of course, a kinetic contribution. Vexingly, it has so far been impossible to identify the functional $T[\rho]$ yielding the exact kinetic energy of a given ground state electron density $\rho$. Finding this functional is, on the one hand, of great theoretical interest. At the same time, it paves the way for optimizing the  ground state electron density without taking recourse to the much more complicated many-body wave functions. This sixty-year old promise is called “pure” or “orbital-free” DFT.</p>
+
+<p>The entire team is now focused on developing machine learning methods to <em>learn</em> the elusive functional. If successful, this will dramatically speed up the prediction of molecular properties, paving the way to address previously inaccessible questions in the molecular and life sciences.</p>
+
+<div class="citation">
+  
+    <a href="https://doi.org/gs93pm" class="citation-image" aria-label="KineticNet: Deep learning a transferable kinetic energy functional for orbital-free density functional theory">
+      <img src="/images/publications/KineticNet.png" alt="KineticNet: Deep learning a transferable kinetic energy functional for orbital-free density functional theory" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
     </a>
+  
+
+  <div class="citation-text">
+    
     
 
-    
-      <span class="card-subtitle">Making orbital-free density functional theory a reality</span>
-    
+    <a href="https://doi.org/gs93pm" class="citation-title">
+      KineticNet: Deep learning a transferable kinetic energy functional for orbital-free density functional theory
+    </a>
+
+    <div class="citation-authors" tabindex="0">
+      R. Remme, T. Kaczun, M. Scheurer, A. Dreuw, F. A. Hamprecht
+    </div>
+
+    <div class="citation-details">
+      JCP
+        ·  
+      2023
+    </div>
 
     
-      <p>We work on making quantum chemical predictions with chemical accuracy, without orbitals and at a fraction of the cost.</p>
+      
 
+      
+
+      
     
-
-    <!---->
   </div>
 </div>
   </section>
