@@ -48,7 +48,7 @@ jobs:
       - name: Build preview version of site
         if: github.event.action != 'closed'
         run: |
-          JEKYLL_ENV=production bundle exec jekyll build --baseurl "http://sciai-lab.org/${{ env.PREVIEWS_FOLDER }}/pr-${{ github.event.number }}"
+          JEKYLL_ENV=production bundle exec jekyll build --baseurl "https://sciai-lab.org/${{ env.PREVIEWS_FOLDER }}/pr-${{ github.event.number }}"
 
       - name: Commit preview to Pages branch
         uses: rossjrw/pr-preview-action@v1
