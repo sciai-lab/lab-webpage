@@ -8,17 +8,22 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 03.02.2025 in INF 205, SR 4.300 starting at 11:00am  
+Next Seminar: 10.02.2025 in INF 205, SR 4.300 starting at 11:00am  
 **Paper to be discussed:**
 
-**EquiFlow: Equivariant Conditional Flow Matching with Optimal Transport for 3D Molecular Conformation Prediction**  
-*Qingwen Tian, Yuxin Xu, Yixuan Yang, Zhen Wang, Ziqi Liu, Pengju Yan, Xiaolin Li*  
-https://arxiv.org/abs/2412.11082
+**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**  
+*Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha*  
+https://arxiv.org/abs/2408.06292
 
 
 ---
 
 **Recently discussed papers:**
+
+03.02.2025  
+**EquiFlow: Equivariant Conditional Flow Matching with Optimal Transport for 3D Molecular Conformation Prediction**  
+*Qingwen Tian, Yuxin Xu, Yixuan Yang, Zhen Wang, Ziqi Liu, Pengju Yan, Xiaolin Li*  
+https://arxiv.org/abs/2412.11082
 
 27.01.2025  
 **Cautious Optimizers: Improving Training with One Line of Code**  
