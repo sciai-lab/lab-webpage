@@ -23,34 +23,34 @@ This course takes a two-pronged approach:
 <!-- The course introduces some of the most important techniques for inference, and for regression, classification, dimension reduction and density estimation; and it emphasizes the physical ideas and laws needed to make these work. See below for a more detailed curriculum. -->
 
 
-## Curriculum (preliminary) 
+## Curriculum 
 
-1. Introduction & linear dimension reduction  
-2. Nonlinear dimension reduction: connection to stat. mechanics  
-3. Nonparametric density estimation  
-4. Basic clustering techniques, review of information theory  
-5. Comparing partitions  
-6. Linear regression  
-7. Regularized regression: ridge, lasso  
-8. Classification, take 1: discriminative  
-9. Statistical decision theory  
-10. Bayesian inference  
-11. Classification, take 2: parametric & generative methods  
-12. Classification, take 3: logistic regression, generalized linear models  
-13. Multi-layer perceptrons  
-14. Training of neural networks  
-15. Backpropagation  
-16. Convolutional neural networks  
-17. Self-supervision and foundation models  
-18. Graph neural networks  
-19. Attention, transformers, large language models  
-20. Generative AI: diffusion models  
-21. Probabilistic graphical models  
-22. Reinforcement learning  
-23. Geometric machine learning: symmetries, groups, representations  
-24. Geometric machine learning: SO(3) equivariance and applications  
-25. Ethics of ML  
-26. Q&A
+1. Introduction & linear dimension reduction
+2. Nonlinear dimension reduction: connection to stat. mechanics; UMAP
+3. Nonparametric density estimation (kernel density estimation; random values, expectations) 
+4. Linear regression
+5. Regularized regression: ridge, lasso
+6. Cross-validation, double descent
+7. Statistical decision theory, classification
+8. Parametric & generative methods: QDA. Discriminative: CART 
+9. Logistic regression, generalized linear models 
+10. Multi-layer perceptrons 
+11. Training of neural networks. Batchnorm 
+12. Auto-encoders & relation to PCA, Geometric Auto-encoder. Parametric UMAP. 
+13. SGD with momentum. ADAM. Backpropagation. 
+14. Convolutional neural networks 
+15. CNNs. Self-supervision, representation learning
+16. Attention, transformers  
+17. Large language models (Letiția Pârcălăbescu) 
+18. Fine-tuning LLMs (Letiția Pârcălăbescu). Flow-based methods 
+19. Flow based methods
+20. Graph neural networks (GNN). Miracles of biology :-) 
+21. AI Safety (Lennart Bürger, Erik Jenner)
+22. Equivariant ML: symmetries, groups, representations (Peter Lippmann)  
+23. Spherical tensor product 
+24. ML in orbital-free density functional theory
+25. Ethics of AI (Eva Winkler)
+26. Q&A 
     
 ## Where and when 
 
