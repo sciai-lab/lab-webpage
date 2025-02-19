@@ -2,6 +2,7 @@
 name: Johannes Schmidt
 image: images/team/johannes-schmidt.jpeg
 role: master
+status: alumni
 links:
   github: JSSchmidt
   linkedin: johannes-s-schmidt

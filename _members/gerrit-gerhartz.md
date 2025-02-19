@@ -2,6 +2,7 @@
 name: Gerrit Gerhartz
 image: images/team/gerrit-gerhartz.jpg
 role: master
+status: alumni
 links:
   github: gerhagj
 ---

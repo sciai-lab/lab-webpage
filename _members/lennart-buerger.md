@@ -2,6 +2,7 @@
 name: Lennart Bürger
 image: images/team/lennart-buerger.jpg
 role: master
+status: alumni
 ---
 # Lennart Bürger
 I am currently working on my Master's thesis on AI Alignment in the Scientific AI lab. Previously, I studied physics in Heidelberg and Oxford and did research at the intersection of Quantum Information Theory and Machine Learning.
