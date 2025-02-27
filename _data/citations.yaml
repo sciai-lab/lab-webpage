@@ -211,6 +211,20 @@
   image: images/publications/3D-QSiAR.png
   plugin: sources.py
   file: sources-highlights.yaml
+- id: url:https://openreview.net/forum?id=vDp6StrKIq
+  title: 'Beyond Canonicalization: How Tensorial Messages Improve Equivariant Message
+    Passing'
+  authors:
+  - Peter Lippmann
+  - Gerrit Gerhartz
+  - Roman Remme
+  - Fred A. Hamprecht
+  publisher: ICLR
+  date: '2025-01-22'
+  link: https://openreview.net/forum?id=vDp6StrKIq
+  image: images/publications/beyond-canonicalization.png
+  plugin: sources.py
+  file: sources-recent.yaml
 - id: url:https://openreview.net/forum?id=1Fc2Xa2cDK
   title: 'Truth is Universal: Robust Detection of Lies in LLMs'
   authors:
