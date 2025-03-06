@@ -2,7 +2,6 @@
   publisher: ICLR
   image: images/publications/beyond-canonicalization.png
   date: '2025-01-22'
-  authors: [Peter Lippmann, Gerrit Gerhartz, Roman Remme, Fred A. Hamprecht]
 
 - id: url:https://openreview.net/forum?id=1Fc2Xa2cDK
   publisher: NeurIPS
