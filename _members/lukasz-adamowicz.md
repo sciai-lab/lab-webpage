@@ -1,6 +1,6 @@
 ---
 name: Lukasz Adamowicz
-image: images/team/<firstname>-<lastname>.jpg
+image: images/team/lukasz-adamowicz.jpg
 role: intern
 links:
   github: l-ada
