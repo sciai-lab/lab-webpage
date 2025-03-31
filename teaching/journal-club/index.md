@@ -8,17 +8,23 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 10.02.2025 in INF 205, SR 4.300 starting at 11:00am  
-**Paper to be discussed:**
-
-**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**  
-*Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha*  
-https://arxiv.org/abs/2408.06292
+Next Seminar: 07.04.2025 in INF 205, SR 4.300 starting at 11:30am  
+**Paper to be discussed:** will be announced on Friday
 
 
 ---
 
 **Recently discussed papers:**
+
+10.03.2025  
+**DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**  
+*DeepSeek-AI*  
+https://arxiv.org/abs/2501.12948
+
+10.02.2025  
+**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**  
+*Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha*  
+https://arxiv.org/abs/2408.06292
 
 03.02.2025  
 **EquiFlow: Equivariant Conditional Flow Matching with Optimal Transport for 3D Molecular Conformation Prediction**  
