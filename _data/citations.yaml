@@ -264,15 +264,15 @@
   image: images/publications/KineticNet.png
   plugin: sources.py
   file: sources-recent.yaml
-- id: url:https://dl.acm.org/doi/10.5555/3618408.3619483
-  title: 'Geometric autoencoders: what you see is what you decode'
+- id: url:https://proceedings.mlr.press/v202/nazari23a.html
+  title: Geometric Autoencoders - What You See is What You Decode
   authors:
   - Philipp Nazari
   - Sebastian Damrich
   - Fred A. Hamprecht
   publisher: ICML
-  date: '2023-07-23'
-  link: https://dl.acm.org/doi/10.5555/3618408.3619483
+  date: '2023-07-03'
+  link: https://proceedings.mlr.press/v202/nazari23a.html
   image: images/publications/geometric-autoencoders.png
   plugin: sources.py
   file: sources-recent.yaml

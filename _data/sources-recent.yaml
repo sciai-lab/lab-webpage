@@ -15,7 +15,7 @@
   publisher: JCP
   image: images/publications/KineticNet.png
 
-- id: url:https://dl.acm.org/doi/10.5555/3618408.3619483
+- id: url:https://proceedings.mlr.press/v202/nazari23a.html
   publisher: ICML
   image: images/publications/geometric-autoencoders.png
 
