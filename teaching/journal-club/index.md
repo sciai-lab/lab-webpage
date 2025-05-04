@@ -8,17 +8,22 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 07.04.2025 in INF 205, SR 4.300 starting at 11:30am  
+Next Seminar: 05.05.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**How simple can you go? An off-the-shelf transformer approach to molecular dynamics**  
-*Max Eissler, Tim Korjakow, Stefan Ganscha, Oliver T. Unke, Klaus-Robert Müller, Stefan Gugler*  
-https://arxiv.org/abs/2503.01431
+**Erwin: A Tree-based Hierarchical Transformer for Large-scale Physical Systems**  
+*Maksim Zhdanov, Max Welling, Jan-Willem van de Meent*  
+https://arxiv.org/abs/2502.17019
 
 
 ---
 
 **Recently discussed papers:**
+
+07.04.2025  
+**How simple can you go? An off-the-shelf transformer approach to molecular dynamics**  
+*Max Eissler, Tim Korjakow, Stefan Ganscha, Oliver T. Unke, Klaus-Robert Müller, Stefan Gugler*  
+https://arxiv.org/abs/2503.01431
 
 10.03.2025  
 **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**  
