@@ -8,17 +8,22 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 05.05.2025 in INF 205, SR 4.300 starting at 11:30am  
+Next Seminar: 12.05.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**Erwin: A Tree-based Hierarchical Transformer for Large-scale Physical Systems**  
-*Maksim Zhdanov, Max Welling, Jan-Willem van de Meent*  
-https://arxiv.org/abs/2502.17019
+**Bundle Neural Networks for message diffusion on graphs**  
+*Jacob Bamberger, Federico Barbero, Xiaowen Dong, Michael M. Bronstein*  
+https://arxiv.org/abs/2405.15540
 
 
 ---
 
 **Recently discussed papers:**
+
+05.05.2025  
+**Erwin: A Tree-based Hierarchical Transformer for Large-scale Physical Systems**  
+*Maksim Zhdanov, Max Welling, Jan-Willem van de Meent*  
+https://arxiv.org/abs/2502.17019
 
 07.04.2025  
 **How simple can you go? An off-the-shelf transformer approach to molecular dynamics**  
