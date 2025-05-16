@@ -8,17 +8,22 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 12.05.2025 in INF 205, SR 4.300 starting at 11:30am  
+Next Seminar: 19.05.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**Bundle Neural Networks for message diffusion on graphs**  
-*Jacob Bamberger, Federico Barbero, Xiaowen Dong, Michael M. Bronstein*  
-https://arxiv.org/abs/2405.15540
+**Sharpness-Aware Minimization for Efficiently Improving Generalization**  
+*Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur*  
+https://arxiv.org/abs/2010.01412
 
 
 ---
 
 **Recently discussed papers:**
+
+12.05.2025  
+**Bundle Neural Networks for message diffusion on graphs**  
+*Jacob Bamberger, Federico Barbero, Xiaowen Dong, Michael M. Bronstein*  
+https://arxiv.org/abs/2405.15540
 
 05.05.2025  
 **Erwin: A Tree-based Hierarchical Transformer for Large-scale Physical Systems**  
