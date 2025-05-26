@@ -8,17 +8,24 @@ The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 19.05.2025 in INF 205, SR 4.300 starting at 11:30am  
+Next Seminar: 26.05.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**Sharpness-Aware Minimization for Efficiently Improving Generalization**  
-*Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur*  
-https://arxiv.org/abs/2010.01412
+**Flash Invariant Point Attention**  
+*Andrew Liu, Axel Elaldi, Nicholas T Franklin et. al*  
+https://arxiv.org/abs/2505.11580
+
+
 
 
 ---
 
 **Recently discussed papers:**
+
+19.05.2025  
+**Sharpness-Aware Minimization for Efficiently Improving Generalization**  
+*Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur*  
+https://arxiv.org/abs/2010.01412
 
 12.05.2025  
 **Bundle Neural Networks for message diffusion on graphs**  
