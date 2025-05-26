@@ -7,6 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-chalkboard-user" %}Teaching
 
+## Winter semester 2025
+
+* Lecture: [Machine Learning and Physics](25w/mlph/)
+
+
 ## Winter semester 2024
 
 * Lecture: [Machine Learning and Physics](24w/mlph/)
