@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en" data-dark="false">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!--
+  put your analytics (e.g. Google Analytics) tracking code here
+-->
+
+  <!--
+  put your search engine verification (e.g. Google Search Console) tag here
+-->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Machine Learning and Physics | Scientific AI</title>
+
+<link rel="icon" href="/preview/pr-52/images/icon.png">
+
+<meta name="title" content="Machine Learning and Physics">
+<meta name="description" content="Hamprecht Lab, &lt;a href='https://www.iwr.uni-heidelberg.de' data-tooltip='IWR homepage'&gt;IWR&lt;/a&gt;, &lt;a href='https://www.uni-heidelberg.de' data-tooltip='Heidelberg University homepage'&gt;Heidelberg University&lt;/a&gt;. Developing principled AI methods to solve hard problems from the natural sciences.">
+
+<meta property="og:title" content="Machine Learning and Physics">
+<meta property="og:site_title" content="Scientific AI">
+<meta property="og:description" content="Hamprecht Lab, &lt;a href='https://www.iwr.uni-heidelberg.de' data-tooltip='IWR homepage'&gt;IWR&lt;/a&gt;, &lt;a href='https://www.uni-heidelberg.de' data-tooltip='Heidelberg University homepage'&gt;Heidelberg University&lt;/a&gt;. Developing principled AI methods to solve hard problems from the natural sciences.">
+<meta property="og:url" content="">
+<meta property="og:image" content="/preview/pr-52/images/share.jpg">
+<meta property="og:locale" content="en_US">
+
+<meta property="twitter:title" content="Machine Learning and Physics">
+<meta property="twitter:description" content="Hamprecht Lab, &lt;a href='https://www.iwr.uni-heidelberg.de' data-tooltip='IWR homepage'&gt;IWR&lt;/a&gt;, &lt;a href='https://www.uni-heidelberg.de' data-tooltip='Heidelberg University homepage'&gt;Heidelberg University&lt;/a&gt;. Developing principled AI methods to solve hard problems from the natural sciences.">
+<meta property="twitter:url" content="">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="/preview/pr-52/images/share.jpg">
+
+
+  <meta property="og:type" content="website">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "WebSite",
+    
+    "name": "Machine Learning and Physics",
+    "description": "Hamprecht Lab, <a href='https://www.iwr.uni-heidelberg.de' data-tooltip='IWR homepage'>IWR</a>, <a href='https://www.uni-heidelberg.de' data-tooltip='Heidelberg University homepage'>Heidelberg University</a>. Developing principled AI methods to solve hard problems from the natural sciences.",
+    "headline": "Machine Learning and Physics",
+    "publisher": {
+      "@type": "Organization",
+      "logo": { "@type": "ImageObject", "url": "/preview/pr-52/images/icon.png" }
+    },
+    "url": ""
+  }
+</script>
+
+<link rel="alternate" type="application/rss+xml" href="/preview/pr-52/feed.xml">
+
+  <!-- Google Fonts -->
+<!-- automatically get url from fonts used in theme file -->
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+
+<!-- Font Awesome icons (load asynchronously due to size) -->
+
+<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<noscript>
+  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+</noscript>
+
+  <!-- third party styles -->
+<!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
+<link href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css" rel="stylesheet">
+
+<!-- include all sass in styles folder -->
+
+
+  
+    <link href="/preview/pr-52/_styles/-theme.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/alert.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/all.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/anchor.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/background.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/body.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/bold.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/button.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/card.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/checkbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/citation.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/code.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/cols.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/feature.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/figure.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/float.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/font.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/footer.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/form.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/grid.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/header.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/heading.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/highlight.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/icon.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/image.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/link.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/list.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/main.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/paragraph.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/portrait.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/post-excerpt.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/post-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/post-nav.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/quote.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/rule.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/search-box.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/search-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/section.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/table.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/tags.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/textbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/tooltip.css" rel="stylesheet">
+  
+
+  
+    <link href="/preview/pr-52/_styles/util.css" rel="stylesheet">
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+<!-- include all css in styles folder -->
+
+
+
+  <!-- third party scripts -->
+<script src="https://unpkg.com/@popperjs/core@2" defer></script>
+<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/mark.js@8" defer></script>
+
+<!-- include all js in scripts folder -->
+
+
+  <script src="/preview/pr-52/_scripts/anchors.js"></script>
+
+  <script src="/preview/pr-52/_scripts/dark-mode.js"></script>
+
+  <script src="/preview/pr-52/_scripts/fetch-tags.js"></script>
+
+  <script src="/preview/pr-52/_scripts/search.js"></script>
+
+  <script src="/preview/pr-52/_scripts/site-search.js"></script>
+
+  <script src="/preview/pr-52/_scripts/tooltip.js"></script>
+
+
+</head>
+
+  <body>
+    
+
+
+
+
+
+
+
+<header class="background" style="--image: url('/preview/pr-52/images/Cube_structure_based_on_nine_modules.jpg')" data-dark="true">
+  <div class="home">
+    
+      <a href="/preview/pr-52/" class="logo">
+        
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="-40 -60 80 100">
+  <style>
+    .bubble {
+      animation: float 2s ease-out both infinite var(--delay);
+    }
+    @keyframes float {
+      0% {
+        opacity: 0;
+      }
+      50% {
+        transform: translateY(0);
+        opacity: 0;
+      }
+      75% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+        transform: translateY(-40px);
+      }
+    }
+  </style>
+  <g fill="currentColor" opacity="0.5">
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.1s"></circle>
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.4s"></circle>
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 1.1s"></circle>
+  </g>
+  <path fill="#e80036" d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L -19.5 11.25
+      L 0 22.5
+      L 19.5 11.25
+      L 19.5 -11.25
+      z
+    "></path>
+  <path fill="#e8869a" d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L 0 0
+      L 19.5 -11.25
+      z
+    "></path>
+  <path fill="none" stroke="currentColor" stroke-width="5" d="
+      M -18 -53
+      L -10 -53
+      L -10 -29.2
+      L -30.3 -17.5
+      L -30.3 17.5
+      L 0 35
+      L 30.3 17.5
+      L 30.3 -17.5
+      L 10 -29.2
+      L 10 -53
+      L 18 -53
+    "></path>
+</svg>
+
+        
+      </a>
+    
+    
+      <span class="title">
+        
+          <a href="/preview/pr-52/" data-tooltip="Home">Scientific AI</a>
+        
+        
+          <span>Hamprecht Lab, <a href="https://www.iwr.uni-heidelberg.de" data-tooltip="IWR homepage">IWR</a>, <a href="https://www.uni-heidelberg.de" data-tooltip="Heidelberg University homepage">Heidelberg University</a></span>
+        
+      </span>
+    
+  </div>
+
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
+  <nav>
+    
+    
+      
+        <a href="/preview/pr-52/team/" data-tooltip="About our team">
+          Team
+        </a>
+      
+    
+      
+        <a href="/preview/pr-52/projects/" data-tooltip="Our projects">
+          Projects
+        </a>
+      
+    
+      
+        <a href="/preview/pr-52/publications/" data-tooltip="Published works">
+          Publications
+        </a>
+      
+    
+      
+        <a href="/preview/pr-52/teaching/" data-tooltip="Teaching">
+          Teaching
+        </a>
+      
+    
+      
+        <a href="/preview/pr-52/positions/" data-tooltip="Open positions">
+          Positions
+        </a>
+      
+    
+      
+        <a href="/preview/pr-52/contact/" data-tooltip="Contact person">
+          Contact
+        </a>
+      
+    
+  </nav>
+</header>
+
+    <main>
+      <!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - wrap each table in div to allow for scrolling
+  - filter out blank sections
+-->
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <h1 id="machine-learning-and-physics">Machine Learning and Physics</h1>
+
+<p>Machine learning has become a transformational force in our society, and is profoundly impacting society in ways both good and bad. On the good side, machine learning fuels scientific breakthroughs such as solving the protein folding problem, or creating large language models that by now show sparks of artificial general intelligence. On the bad side, convincing deep fakes are used for manipulation, and machine learning supports surveillance in totalitarian states.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/preview/pr-52/images/mlph.png" style="
+        width: 700px;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/preview/pr-52/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
+
+<h2 id="contents">Contents</h2>
+
+<p>This course takes a two-pronged approach:</p>
+
+<p><strong>Physics of Machine Learning</strong>: Highlight physical ideas and concepts that drive ML</p>
+
+<p><strong>Machine Learning for Physics</strong>: Equip you with tools to help conduct, and interpret, future experiments</p>
+
+<!-- The course introduces some of the most important techniques for inference, and for regression, classification, dimension reduction and density estimation; and it emphasizes the physical ideas and laws needed to make these work. See below for a more detailed curriculum. -->
+
+<h2 id="curriculum">Curriculum</h2>
+
+<ol>
+  <li>Introduction &amp; linear dimension reduction</li>
+  <li>Nonlinear dimension reduction: connection to stat. mechanics; UMAP</li>
+  <li>Nonparametric density estimation (kernel density estimation; random values, expectations)</li>
+  <li>Linear regression</li>
+  <li>Regularized regression: ridge, lasso</li>
+  <li>Cross-validation, double descent</li>
+  <li>Statistical decision theory, classification</li>
+  <li>Parametric &amp; generative methods: QDA. Discriminative: CART</li>
+  <li>Logistic regression, generalized linear models</li>
+  <li>Multi-layer perceptrons</li>
+  <li>Training of neural networks. Batchnorm</li>
+  <li>Auto-encoders &amp; relation to PCA, Geometric Auto-encoder. Parametric UMAP.</li>
+  <li>SGD with momentum. ADAM. Backpropagation.</li>
+  <li>Convolutional neural networks</li>
+  <li>CNNs. Self-supervision, representation learning</li>
+  <li>Attention, transformers</li>
+  <li>Large language models (Letiția Pârcălăbescu)</li>
+  <li>Fine-tuning LLMs (Letiția Pârcălăbescu). Flow-based methods</li>
+  <li>Flow based methods</li>
+  <li>Graph neural networks (GNN). Miracles of biology :-)</li>
+  <li>AI Safety (Lennart Bürger, Erik Jenner)</li>
+  <li>Equivariant ML: symmetries, groups, representations (Peter Lippmann)</li>
+  <li>Spherical tensor product</li>
+  <li>ML in orbital-free density functional theory</li>
+  <li>Ethics of AI (Eva Winkler)</li>
+  <li>Q&amp;A</li>
+</ol>
+
+<h2 id="where-and-when">Where and when</h2>
+
+<!--    The course starts with a python refresher in the tutorial on Oct 17th or 18th (identical content). Unless you are familiar with python and it's basic scientific stack (jupyter, numpy, matplotlib, scipy), please take part to help you solve the computational exercises. -->
+
+<p>The main lectures are on Tuesdays and Thursdays from 9h00 (NOT 9h15!) until 10h45 in Großer Hörsaal, Philosophenweg 12.</p>
+
+<h2 id="faq">FAQ</h2>
+
+<p>Q: Do I need prior knowledge in machine learning? <br>
+A: No.</p>
+
+<p>Q: I just want to learn the basics. Is this the right course? <br>
+A: Students liked my 2022 rendition, but noted a steep learning curve; if you only want to cover the basics, please check for slower-paced alternatives such as the “Machine Learning Essentials”.</p>
+
+<p>Q: Is this course about deep learning? <br>
+A: Neural networks will play an important role; but this course is more about principles. We will not discuss the latest architectures in any detail.</p>
+
+<p>Q: Will this course be repeated next year? <br>
+A: Yes, like every MSc core course, though likely by a different professor.</p>
+
+<p>Q: Is there a text book? <br>
+A: There is unfortunately not a single compact book covering the entire contents of the course. Most material is covered in the 2000 pages of Murphy’s volumes <a href="https://probml.github.io/pml-book/book1.html">1</a> and <a href="https://probml.github.io/pml-book/book2.html">2</a>. I will try and make a script available for at least the bulk of the contents.</p>
+
+<p>Q: Exam modalities? <br>
+A: To be admitted to the written exam at the end of the semester, you need to gain 50% of the points in the exercise sheets.</p>
+
+<p>Q: 9AM is really early. Is it okay if I come a bit later? <br>
+A: No. I try and introduce the material of the day in a didactic manner at the beginning, and you disturb others by coming late. We start early so that we can finish by 10h45, allowing you to smoothly transit to your next lectures. (And yes, I think 9AM is early, too.)</p>
+  </section>
+
+
+    </main>
+    
+
+
+<footer class="background" style="--image: url('/preview/pr-52/images/jenn-02.jpg')" data-dark="true" data-size="wide">
+  <!--
+    <div>
+      Extra details like contact info or address
+    </div>
+  -->
+
+  <div>
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="mailto:hamprecht-lab-manager@iwr.uni-heidelberg.de" data-tooltip="Email" data-style="bare" aria-label="Email">
+      <i class="icon fa-solid fa-envelope"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://scholar.google.com/citations?user=lO62bt0AAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
+      <i class="icon fa-brands fa-google"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://github.com/sciai-lab" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
+      <i class="icon fa-brands fa-github"></i>
+      
+    </a>
+  </div>
+
+
+    
+  </div>
+
+  <div>
+    © 2025
+    Scientific AI
+      |   Built with
+    <a href="https://github.com/greenelab/lab-website-template">
+      Lab Website Template
+    </a>
+  </div>
+
+  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+</footer>
+
+  </body>
+</html>
