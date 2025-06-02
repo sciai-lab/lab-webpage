@@ -31,9 +31,9 @@ This course takes a two-pronged approach:
 3. Nonparametric density estimation (KDE, RV, expectation), mean shift
 4. Linear regression
 5. Regularized regression: ridge, lasso
-6. Cross-validation, double descent
-7. Statistical decision theory, Classification
-8. Parametric & generative methods (QDA). CART.
+6. Statistical decision theory, Classification
+7. Parametric & generative methods (QDA). CART.
+8. Cross-validation, double descent
 9. Logistic regression, generalized linear models, softmax
 10. Multi-layer perceptrons
 11. Training of neural networks. Batchnorm
