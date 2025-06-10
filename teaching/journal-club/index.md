@@ -3,23 +3,32 @@ title: Journal Club
 ---
 # Journal Club: Advanced Machine Learning
 
-The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The focus is on discussing current research papers and results in machine learning. The target audience is active researchers (postdocs, phd students and advanced master students) in the field who want to discuss and stay up to date with recent developments. 
+The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The focus is on discussing current research papers and results in machine learning. The target audience is active researchers (postdocs, phd students and advanced master students) in the field who want to discuss and stay up to date with recent developments.  
+
+The Journal club takes place every Tueday in INF 205, SR 4.300 at 11.30am and takes 1h.  
 
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 02.06.2025 in INF 205, SR 4.300 starting at 11:30am  
+Next Seminar: 10.06.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**High-order Equivariant Flow Matching for Density Functional Theory Hamiltonian Prediction**  
-*Seongsu Kim, Nayoung Kim, Dongwoo Kim, Sungsoo Ahn*  
-https://arxiv.org/abs/2505.18817
+**Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction**  
+*Xiang Fu, Brandon M. Wood, Luis Barroso-Luque, Daniel S. Levine, Meng Gao, Misko Dzamba, C. Lawrence Zitnick*  
+https://arxiv.org/abs/2502.12147v1
+
+
 
 
 
 ---
 
 **Recently discussed papers:**
+
+02.06.2025  
+**High-order Equivariant Flow Matching for Density Functional Theory Hamiltonian Prediction**  
+*Seongsu Kim, Nayoung Kim, Dongwoo Kim, Sungsoo Ahn*  
+https://arxiv.org/abs/2505.18817
 
 26.05.2025  
 **Flash Invariant Point Attention**  
