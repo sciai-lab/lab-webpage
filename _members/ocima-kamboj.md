@@ -2,6 +2,7 @@
 name: Ocima Kamboj
 image: images/team/ocima-kamboj.jpg
 role: research assistant
+status: alumni
 links:
 ---
 
