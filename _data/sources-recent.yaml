@@ -1,3 +1,8 @@
+- id: doi:10.48550/arXiv.2503.00443
+  image: images/publications/structures25.jpg
+  project: MLDFT
+  date: '2025-03-01'
+
 - id: url:https://openreview.net/forum?id=vDp6StrKIq
   publisher: ICLR
   image: images/publications/beyond-canonicalization.png
@@ -14,6 +19,7 @@
 - id: doi:10.1063/5.0158275
   publisher: JCP
   image: images/publications/KineticNet.png
+  project: MLDFT
 
 - id: url:https://proceedings.mlr.press/v202/nazari23a.html
   publisher: ICML
@@ -27,7 +33,6 @@
 - id: url:https://proceedings.neurips.cc/paper_files/paper/2022/hash/0206c1c20a18915da23df5e61966fc6a-Abstract-Conference.html
   publisher: NeurIPS
   image: images/publications/branched-BOT.png
-
 
 - id: url:https://proceedings.mlr.press/v162/sanmarti-n22a.html
   publisher: ICML

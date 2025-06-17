@@ -47,7 +47,7 @@
         citation.authors
         | join: ","
         | split: ","
-        | array_carve: 5
+        | array_carve: 10
         | join: ", "
         | default: "[no author info]"
       }}
