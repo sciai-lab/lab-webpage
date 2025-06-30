@@ -10,12 +10,12 @@ The Journal club takes place every Tueday in INF 205, SR 4.300 at 11.30am and ta
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 10.06.2025 in INF 205, SR 4.300 starting at 11:30am  
+Next Seminar: 01.07.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction**  
-*Xiang Fu, Brandon M. Wood, Luis Barroso-Luque, Daniel S. Levine, Meng Gao, Misko Dzamba, C. Lawrence Zitnick*  
-https://arxiv.org/abs/2502.12147v1
+**How much do language models memorize?**  
+*John X. Morris, Chawin Sitawarin, Chuan Guo et al.*  
+https://arxiv.org/abs/2505.24832
 
 
 
@@ -24,6 +24,21 @@ https://arxiv.org/abs/2502.12147v1
 ---
 
 **Recently discussed papers:**
+
+24.06.2025  
+**Improved motif-scaffolding with SE(3) flow matching**  
+*Jason Yim, Andrew Campbell, Emile Mathieu et al.*  
+https://arxiv.org/abs/2401.04082
+
+17.06.2025  
+**ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals**  
+*Jonas Elsborg, Luca Thiede, Alán Aspuru-Guzik, Tejs Vegge, Arghya Bhowmik*  
+https://arxiv.org/abs/2503.08305
+
+10.06.2025  
+**Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction**  
+*Xiang Fu, Brandon M. Wood, Luis Barroso-Luque, Daniel S. Levine, Meng Gao, Misko Dzamba, C. Lawrence Zitnick*  
+https://arxiv.org/abs/2502.12147v1
 
 02.06.2025  
 **High-order Equivariant Flow Matching for Density Functional Theory Hamiltonian Prediction**  
