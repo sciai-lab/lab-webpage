@@ -21,7 +21,8 @@ We are physicists, mathematicians, computer scientists and engineers, united by 
 
 {% include list.html data="members" component="portrait" filters="role: pi, status: ^(?!alumni$)" %}
 {% include list.html data="members" component="portrait" filters="role: visiting-prof, status: ^(?!alumni$)" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|visiting-prof$), status: ^(?!alumni$)" %}
+{% include list.html data="members" component="portrait" filters="role: labmanager, status: ^(?!alumni$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|visiting-prof$|labmanager$), status: ^(?!alumni$)" %}
 
 {% comment %}
 
