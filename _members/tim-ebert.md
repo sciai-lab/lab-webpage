@@ -2,6 +2,7 @@
 name: Tim Ebert
 image: images/team/tim-ebert.jpeg
 role: research assistant
+status: alumni
 links:
     github: TimLEbert
 ---
