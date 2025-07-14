@@ -10,12 +10,14 @@ The Journal club takes place every Tueday in INF 205, SR 4.300 at 11.30am and ta
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 01.07.2025 in INF 205, SR 4.300 starting at 11:30am  
+Next Seminar: 15.07.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**How much do language models memorize?**  
-*John X. Morris, Chawin Sitawarin, Chuan Guo et al.*  
-https://arxiv.org/abs/2505.24832
+**DEQuify your force field: Towards efficient simulations using deep equilibrium models**  
+*Andreas Burger, Luca Thiede, Alan Aspuru-Guzik, Nandita Vijaykumar*  
+https://openreview.net/forum?id=XACVRYePQQ
+
+
 
 
 
@@ -24,6 +26,11 @@ https://arxiv.org/abs/2505.24832
 ---
 
 **Recently discussed papers:**
+
+01.07.2025  
+**How much do language models memorize?**  
+*John X. Morris, Chawin Sitawarin, Chuan Guo et al.*  
+https://arxiv.org/abs/2505.24832
 
 24.06.2025  
 **Improved motif-scaffolding with SE(3) flow matching**  
