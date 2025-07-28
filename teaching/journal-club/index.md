@@ -10,17 +10,24 @@ The Journal club takes place every Tueday in INF 205, SR 4.300 at 11.30am and ta
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 22.07.2025 in INF 205, SR 4.300 starting at 11:30am  
+Next Seminar: 29.07.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames**  
-*Haiyang Yu, Yuchao Lin, Xuan Zhang, Xiaofeng Qian, Shuiwang Ji*  
-https://arxiv.org/abs/2506.09398
+**Equivariance Everywhere All At Once: A Recipe for Graph Foundation Models**  
+*Ben Finkelshtein, İsmail İlkan Ceylan, Michael Bronstein, Ron Levie*  
+https://arxiv.org/abs/2506.14291
+
+
 
 
 ---
 
 **Recently discussed papers:**
+
+22.07.2025  
+**Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames**  
+*Haiyang Yu, Yuchao Lin, Xuan Zhang, Xiaofeng Qian, Shuiwang Ji*  
+https://arxiv.org/abs/2506.09398
 
 15.07.2025  
 **DEQuify your force field: Towards efficient simulations using deep equilibrium models**  
