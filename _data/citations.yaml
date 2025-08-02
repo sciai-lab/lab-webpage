@@ -211,8 +211,9 @@
   image: images/publications/3D-QSiAR.png
   plugin: sources.py
   file: sources-highlights.yaml
-- id: doi:10.48550/arXiv.2503.00443
-  title: Stable and Accurate Orbital-Free DFT Powered by Machine Learning
+- id: doi:10.1021/jacs.5c06219
+  title: Stable and Accurate Orbital-Free Density Functional Theory Powered by Machine
+    Learning
   authors:
   - Roman Remme
   - Tobias Kaczun
@@ -227,9 +228,9 @@
   - Simon Wagner
   - Andreas Dreuw
   - Fred A. Hamprecht
-  publisher: arXiv
-  date: '2025-03-01'
-  link: https://doi.org/g9qjvx
+  publisher: JACS
+  date: '2025-08-01'
+  link: https://doi.org/g9vxdw
   image: images/publications/structures25.jpg
   project: MLDFT
   plugin: sources.py
