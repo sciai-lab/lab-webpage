@@ -15,9 +15,9 @@ nav:
 
 {%
   include figure.html
-  image="images/density_slice.webp"
+  image="images/str25-jacs.jpg"
   width="400px"
-  caption="Slice through the density difference to the ground state of a molecule."
+  caption="Orbital-free DFT predicts the energy form the electron density and enables exploration of the chemical space."
 %}
 
 When predicting the properties of a molecule, it is natural to invoke quantum mechanics to describe the interacting electrons in terms of their many-body wave function $\psi(x_1, ..., x_N)$. For sizeable molecules, this is too expensive and instead Kohn-Sham density functional theory (KS-DFT) is routinely evoked. The latter models the same system merely via one-body functions $\phi_1 (x_1)$, ..., $\phi_N (x_N)$ describing non-interacting electrons moving in an effective potential created by all others. Although highly successful in practice, Kohn-Sham DFT remains a sort of band-aid solution. Why? 
