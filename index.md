@@ -28,7 +28,7 @@ The most universal approach to such predictions relies on quantum mechanics. We 
 
 {%
   include feature.html
-  image="images/density_slice.webp"
+  image="images/str25-jacs-crop.jpg"
   link="projects"
   title="Geometric Machine Learning in Quantum Chemistry"
   text=text
