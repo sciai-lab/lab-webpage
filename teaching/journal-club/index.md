@@ -13,16 +13,20 @@ The Journal club takes place every Tueday in INF 205, SR 4.300 at 11.30am and ta
 Next Seminar: 29.07.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**Equivariance Everywhere All At Once: A Recipe for Graph Foundation Models**  
-*Ben Finkelshtein, İsmail İlkan Ceylan, Michael Bronstein, Ron Levie*  
-https://arxiv.org/abs/2506.14291
-
+**Image super-resolution inspired electron density prediction**  
+*C Li, O Sharir, S Yuan, GKL Chan*  
+https://www.nature.com/articles/s41467-025-60095-8
 
 
 
 ---
 
 **Recently discussed papers:**
+
+29.07.2025  
+**Equivariance Everywhere All At Once: A Recipe for Graph Foundation Models**  
+*Ben Finkelshtein, İsmail İlkan Ceylan, Michael Bronstein, Ron Levie*  
+https://arxiv.org/abs/2506.14291
 
 22.07.2025  
 **Efficient Prediction of SO(3)-Equivariant Hamiltonian Matrices via SO(2) Local Frames**  
