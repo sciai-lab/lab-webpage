@@ -10,18 +10,23 @@ The Journal club takes place every Tueday in INF 205, SR 4.300 at 11.30am and ta
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 29.07.2025 in INF 205, SR 4.300 starting at 11:30am  
+Next Seminar: 02.09.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**Image super-resolution inspired electron density prediction**  
-*C Li, O Sharir, S Yuan, GKL Chan*  
-https://www.nature.com/articles/s41467-025-60095-8
+**Hierarchical Reasoning Model**  
+*Guan Wang, Jin Li, Yuhao Sun, Xing Chen, Changling Liu, Yue Wu, Meng Lu, Sen Song, Yasin Abbasi Yadkori*  
+https://arxiv.org/abs/2506.21734
 
 
 
 ---
 
 **Recently discussed papers:**
+
+12.08.2025  
+**Image super-resolution inspired electron density prediction**  
+*C Li, O Sharir, S Yuan, GKL Chan*  
+https://www.nature.com/articles/s41467-025-60095-8
 
 29.07.2025  
 **Equivariance Everywhere All At Once: A Recipe for Graph Foundation Models**  
