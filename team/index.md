@@ -11,10 +11,10 @@ We are physicists, mathematicians, computer scientists and engineers, united by 
 
 {%
   include figure.html
-  image="images/1811-group-outing.jpg"
-  caption="2018 CE"
+  image="images/team.jpg"
+  caption="The SciAI lab in the Vosges in 2025"
   link="team"
-  width="30%"
+  width="50%"
 %}
 
 {% include section.html %}

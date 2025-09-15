@@ -53,7 +53,7 @@ The team is everything! Our maxime: 1. Be Nice and 2. Do Great Science :-)
 
 {%
   include feature.html
-  image="images/quantum-boat.png"
+  image="images/team.jpg"
   link="team"
   flip=true
   title="Our Team"
