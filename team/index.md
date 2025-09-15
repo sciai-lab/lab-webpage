@@ -12,7 +12,6 @@ We are physicists, mathematicians, computer scientists and engineers, united by 
 {%
   include figure.html
   image="images/team.jpg"
-  caption="The SciAI lab in the Vosges in 2025"
   width="50%"
 %}
 
