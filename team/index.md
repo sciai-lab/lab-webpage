@@ -11,10 +11,8 @@ We are physicists, mathematicians, computer scientists and engineers, united by 
 
 {%
   include figure.html
-  image="images/1811-group-outing.jpg"
-  caption="2018 CE"
-  link="team"
-  width="30%"
+  image="images/team.jpg"
+  width="50%"
 %}
 
 {% include section.html %}
