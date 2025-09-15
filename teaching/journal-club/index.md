@@ -10,18 +10,22 @@ The Journal club takes place every Tueday in INF 205, SR 4.300 at 11.30am and ta
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 02.09.2025 in INF 205, SR 4.300 starting at 11:30am  
+Next Seminar: 16.09.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**Hierarchical Reasoning Model**  
-*Guan Wang, Jin Li, Yuhao Sun, Xing Chen, Changling Liu, Yue Wu, Meng Lu, Sen Song, Yasin Abbasi Yadkori*  
-https://arxiv.org/abs/2506.21734
-
+**Accurate and scalable exchange-correlation with deep learning**  
+*Giulia Luise, Chin-Wei Huang, Thijs Vogels et al.*  
+https://arxiv.org/abs/2506.14665
 
 
 ---
 
 **Recently discussed papers:**
+
+02.09.2025  
+**Hierarchical Reasoning Model**  
+*Guan Wang, Jin Li, Yuhao Sun, Xing Chen, Changling Liu, Yue Wu, Meng Lu, Sen Song, Yasin Abbasi Yadkori*  
+https://arxiv.org/abs/2506.21734
 
 12.08.2025  
 **Image super-resolution inspired electron density prediction**  
