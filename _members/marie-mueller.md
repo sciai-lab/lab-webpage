@@ -1,7 +1,7 @@
 ---
 name: Marie Müller
 image: images/team/marie-mueller.png
-role: MSc Student
+role: master
 ---
 
 # Marie Müller
