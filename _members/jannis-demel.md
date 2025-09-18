@@ -1,8 +1,7 @@
 ---
 name: Jannis Demel
 image: images/team/jannis-demel.jpg
-role: intern
-status: alumni
+role: master
 links:
   github: jannisdemel
 ---
