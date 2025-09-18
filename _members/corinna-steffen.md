@@ -1,7 +1,7 @@
 ---
 name: Corinna Steffen
 image: images/team/corinna-steffen.jpg
-role: MSc Student
+role: master
 links:
 ---
 
