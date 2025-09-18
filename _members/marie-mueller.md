@@ -1,13 +1,13 @@
 ---
 name: Marie Müller
 image: images/team/marie-mueller.png
-role: intern
+role: MSc Student
 ---
 
 # Marie Müller
 
-I am currently an intern in the Scientific AI Lab, focusing on uncertainty estimation in model predictions.
+I am currently pursuing my Master’s thesis in the Scientific AI Lab, where I focus on uncertainty estimation for deep neural networks.
 
-Beyond my internship, I am pursuing a Master’s in Physics at Heidelberg University, building on my background in Meteorology and Climate Physics. For my bachelor's thesis, titled “Equatorial waves in data-driven forecasts”, I combined my passions for Tropical Meteorology and the application of Machine Learning.
+My academic path began with a Bachelor’s degree in Meteorology and Climate Physics at KIT and continued with a Master’s in Physics at Heidelberg University. Over time, I developed a strong interest in applying statistical and machine learning methods to study and better understand complex systems, from atmospheric dynamics to molecular systems.
 
-In my free time, I love exploring the outdoors, whether it is hiking or cycling.
+Outside of research, I enjoy spending time outdoors, whether hiking in the mountains or exploring new cycling routes.
