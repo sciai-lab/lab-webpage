@@ -7,8 +7,10 @@ links:
 ---
 
 # Jannis Demel
-I am currently doing an internship at the Scientific AI lab where I try to implement a new equivariant architecture in the Density Functional Theory (DFT) project. My previous Bachelor thesis has prepared me for this as I did it at the Institute of Theoretical Physics about DFT. In my master I started to get more interested into Machine Learning which lead to me to working for another group at university but about a topic not related to physics at all. Therefore I am now glad to be able to combine my interests in Machine Learning with my physics background.
+I am currently working on my Master’s thesis at the Scientific AI Lab, where I am part of the Orbital-Free DFT project.
 
-However, I will not be in Heidelberg for the next academic year 2024/25 as I have received a scholarship to attend Cornell University during this time, where I plan on deepening my knowledge in order to come back with more technical skills.
+Density Functional Theory (DFT) was a major focus of my Bachelor’s thesis at the Institute of Theoretical Physics, and I am very happy to now contribute to improving its scaling drastically. Since my Bachelor’s studies I have also been interested in Machine Learning and worked in a group where we applied ML to medical data. I am therefore excited to return to using similar techniques in a physical (or chemical) setting.
 
-In my freetime (which I have far too little) I like to binge watch every series I have access to, cook and go running. 
+I have just returned from a year in the United States, where I had the opportunity to attend Cornell University. Before leaving, I completed an internship in this group focused on implementing a specific equivariant architecture, so I am especially glad to be back and continue my work.
+
+In my free time (which I have far too little of), I enjoy binge-watching series, cooking, and running.
