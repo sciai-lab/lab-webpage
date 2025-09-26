@@ -56,7 +56,7 @@ This course takes a two-pronged approach:
     
 ## Where and when 
 
-The course starts with a python refresher in the tutorial on Oct 13th or 14th (identical content). Unless you are familiar with python and it's basic scientific stack (jupyter, numpy, matplotlib, scipy), please take part to help you solve the computational exercises. 
+The course starts with a python refresher in the tutorial on Oct 13th or 14th (identical content). Unless you are familiar with python and its basic scientific stack (jupyter, numpy, matplotlib, scipy), please take part to help you solve the computational exercises. 
     
 The main lectures are on Tuesdays and Thursdays from 9h00 until 10h45 in Großer Hörsaal, Philosophenweg 12.
 
