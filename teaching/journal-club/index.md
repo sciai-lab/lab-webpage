@@ -10,17 +10,22 @@ The Journal club takes place every Tueday in INF 205, SR 4.300 at 11.30am and ta
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 16.09.2025 in INF 205, SR 4.300 starting at 11:30am  
+Next Seminar: 30.09.2025 in INF 205, SR 4.300 starting at 11:30am  
 **Paper to be discussed:**
 
-**Accurate and scalable exchange-correlation with deep learning**  
-*Giulia Luise, Chin-Wei Huang, Thijs Vogels et al.*  
-https://arxiv.org/abs/2506.14665
+**On Warm-Starting Neural Network Training**  
+*Jordan T. Ash, Ryan P. Adams*  
+https://arxiv.org/abs/1910.08475
 
 
 ---
 
 **Recently discussed papers:**
+
+16.09.2025  
+**Accurate and scalable exchange-correlation with deep learning**  
+*Giulia Luise, Chin-Wei Huang, Thijs Vogels et al.*  
+https://arxiv.org/abs/2506.14665
 
 02.09.2025  
 **Hierarchical Reasoning Model**  
