@@ -8,12 +8,9 @@ on:
   # run if user manually requests it
   workflow_dispatch:
 
-# variables
-env:
-  PREVIEWS_FOLDER: preview
-
 permissions:
   contents: write
+  pages: write
 
 jobs:
   build-site:
@@ -43,9 +40,5 @@ jobs:
         run: |
           JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}"
 
-      - name: Commit live site to Pages branch
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: _site
-          clean-exclude: ${{ env.PREVIEWS_FOLDER }}
-          force: false
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3

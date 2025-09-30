@@ -8,12 +8,9 @@ on:
   # run if user manually requests it
   workflow_dispatch:
 
-# variables
-env:
-  PREVIEWS_FOLDER: preview
-
 permissions:
   contents: write
+  pages: write
   pull-requests: write
 
 jobs:
@@ -32,26 +29,68 @@ jobs:
           ref: ${{ github.head_ref }}
 
       - name: Install Ruby packages
-        if: github.event.action != 'closed'
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.0"
           bundler-cache: true
 
       - name: Get Pages url
-        if: github.event.action != 'closed'
         id: pages
         uses: actions/configure-pages@v2
         with:
           enablement: false
 
       - name: Build preview version of site
-        if: github.event.action != 'closed'
         run: |
-          JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}/${{ env.PREVIEWS_FOLDER }}/pr-${{ github.event.number }}"
+          # Build with relative URLs for local viewing without a web server
+          JEKYLL_ENV=production bundle exec jekyll build --baseurl ""
 
-      - name: Commit preview to Pages branch
-        uses: rossjrw/pr-preview-action@v1
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+      - name: Comment PR with preview link
+        if: github.event.pull_request
+        uses: actions/github-script@v6
         with:
-          source-dir: _site
-          umbrella-dir: ${{ env.PREVIEWS_FOLDER }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { owner, repo } = context.repo;
+            const prNumber = context.payload.pull_request.number;
+            const runId = context.runId;
+            
+            const comment = `🔍 **Preview Build Complete**
+            
+            Your preview has been built and is available as an artifact.
+
+            📦 [Download artifact on workflow run](https://github.com/${owner}/${repo}/actions/runs/${runId})
+
+            *This preview was generated from commit ${{ github.event.pull_request.head.sha }}*`;
+            
+            // Check if we already commented on this PR
+            const comments = await github.rest.issues.listComments({
+              owner,
+              repo,
+              issue_number: prNumber,
+            });
+            
+            const existingComment = comments.data.find(comment => 
+              comment.body.includes('🔍 **Preview Build Complete**')
+            );
+            
+            if (existingComment) {
+              // Update existing comment
+              await github.rest.issues.updateComment({
+                owner,
+                repo,
+                comment_id: existingComment.id,
+                body: comment,
+              });
+            } else {
+              // Create new comment
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: prNumber,
+                body: comment,
+              });
+            }

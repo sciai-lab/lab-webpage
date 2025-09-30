@@ -12,6 +12,8 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  pages: write
+  id-token: write
 
 jobs:
   update-citations:
@@ -22,3 +24,7 @@ jobs:
   build-site:
     needs: update-citations
     uses: ./.github/workflows/build-site.yaml
+  
+  deploy:
+    needs: build-site
+    uses: ./.github/workflows/deploy.yaml
