@@ -42,6 +42,10 @@ bachelor:
   icon:
   description: BSc Student
 
+student assistant:
+  icon:
+  description: Student Assistant
+
 intern:
   icon:
   description: Intern
@@ -49,10 +53,6 @@ intern:
 mascot:
   icon:
   description: Mascot
-
-student assistant:
-  icon:
-  description: Student Assistant
 
 # general
 
