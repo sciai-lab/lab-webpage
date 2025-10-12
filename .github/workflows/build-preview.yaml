@@ -42,18 +42,9 @@ jobs:
 
       - name: Build preview version of site
         run: |
-          # Build site with empty baseurl
-          JEKYLL_ENV=production bundle exec jekyll build --baseurl ""
-          
-          # Convert absolute URLs to relative URLs for offline viewing
-          # This allows the site to work when opened directly from file system
-          cd _site
-          find . -name "*.html" -type f -exec sed -i \
-            -e 's|href="/|href="|g' \
-            -e 's|src="/|src="|g' \
-            -e 's|url(/|url(|g' \
-            {} +
-          cd ..
+          # Build site with empty baseurl for offline viewing
+          # Use _config_preview.yaml to enable jekyll-relative-links plugin
+          JEKYLL_ENV=production bundle exec jekyll build --baseurl "" --config _config.yaml,_config_preview.yaml
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

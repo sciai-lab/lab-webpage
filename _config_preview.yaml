@@ -1,0 +1,11 @@
+# Additional configuration for preview builds (offline viewing)
+# This file is merged with _config.yaml using --config flag
+
+# Enable relative links plugin for offline viewing
+plugins:
+  - jekyll-relative-links
+
+# Configure relative links plugin
+relative_links:
+  enabled: true
+  collections: true
