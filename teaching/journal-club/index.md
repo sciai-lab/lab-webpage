@@ -3,11 +3,9 @@ title: Journal Club
 ---
 # Journal Club: Advanced Machine Learning
 
-<div style="display:inline-block; padding:8px 12px; border:2px solid #6366f1; border-radius:8px; font-weight:700; font-size:1.1em;">
-  Please Note: There will be no Journal Club on Tue 14.10. The next session will be on Tue 23.10.
+<div style="display:inline-block; padding:8px 12px; border:2px solid #6366f1; border-radius:8px; font-weight:700; font-size:1.1em; text-align: left;">
+  Please Note: There will be no Journal Club on Tue 14.10. The next session will be on Tue 21.10.
 </div>
-
-<br>
 
 The _Research Seminar: Advanced Machine Learning_ is a weekly reading group. The focus is on discussing current research papers and results in machine learning. The target audience is active researchers (postdocs, phd students and advanced master students) in the field who want to discuss and stay up to date with recent developments.  
 
