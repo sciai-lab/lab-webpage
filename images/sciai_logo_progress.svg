@@ -49,16 +49,16 @@
       <!-- Black -->
       <path d="M 0 -22.5 L -19.5 -11.25 L 0 0 L 19.5 -11.25 Z" fill="black"/>
       <!-- Brown -->
-      <path d="M 0 -19 L -16.5 -9.5 L 0 0 L 16.5 -9.5 Z" fill="#784421"/>
+      <path d="M 0 -19.5 L -16.9 -9.75 L 0 0 L 16.9 -9.75 Z" fill="#784421"/>
       <!-- Light blue -->
-      <path d="M 0 -15.5 L -13.5 -7.75 L 0 0 L 13.5 -7.75 Z" fill="#55CDFC"/>
+      <path d="M 0 -16.5 L -14.3 -8.25 L 0 0 L 14.3 -8.25 Z" fill="#55CDFC"/>
       <!-- Pink -->
-      <path d="M 0 -12 L -10.5 -6 L 0 0 L 10.5 -6 Z" fill="#F7A8B8"/>
+      <path d="M 0 -13.5 L -11.7 -6.75 L 0 0 L 11.7 -6.75 Z" fill="#F7A8B8"/>
       <!-- White -->
-      <path d="M 0 -8.5 L -7.5 -4.25 L 0 0 L 7.5 -4.25 Z" fill="white"/>
+      <path d="M 0 -10.5 L -9.1 -5.25 L 0 0 L 9.1 -5.25 Z" fill="white"/>
       <!-- Yellow intersex tip inside white -->
-      <path d="M 0 -6 L -5 -3 L 0 0 L 5 -3 Z" fill="#FFD800"/>
-      <circle cx="0" cy="-2.8" r="1.5" fill="none" stroke="#790FC9" stroke-width="0.5"/>
+      <path d="M 0 -7.5 L -6.5 -3.75 L 0 0 L 6.5 -3.75 Z" fill="#FFD800"/>
+      <circle cx="0" cy="-3.75" r="1.65" fill="none" stroke="#790FC9" stroke-width="0.5"/>
     </g>
   </g>
 
