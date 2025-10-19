@@ -11,7 +11,7 @@ If you want to make changes using the GitHub interface, you will be notified tha
 
 ## How to create a member page
 
-1) Put a picture of you (or something else if you prefer) into `images/team/<firstname>-<lastname>.jpg`. Color-Picture. You could use Fred's picture as template, 1:1 ratio, roughly 1500px, https://sciai-lab.org/images/team/fred-hamprecht.jpg.
+1) Put a picture of you (or something else if you prefer) into `images/team/<firstname>-<lastname>.jpg`. Color picture. You could use Fred's picture as a template, 1:1 ratio, roughly 1500px, https://sciai-lab.org/images/team/fred-hamprecht.jpg.
 
 2) Add your basic info to `_data/members-list.yaml`:
 ```
