@@ -59,8 +59,10 @@ jobs:
             const runId = context.runId;
             
             const comment = `🔍 **Preview Build Complete**
-            
+
             Your preview has been built and is available as an artifact.
+            You can download it, unzip it and start a web server in the website's root directory
+            (e.g., using \`python -m http.server\`) to view it.
 
             📦 [Download artifact on workflow run](https://github.com/${owner}/${repo}/actions/runs/${runId})
 
