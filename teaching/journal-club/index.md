@@ -17,17 +17,20 @@ The Journal club takes place every Tueday in INF 205, SR 4.300 at 11.30am and ta
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 21.10.2025 in INF 205, SR 4.300 starting at 11:30am  
-**Paper to be discussed:**
+Next Seminar: 28.10.2025 in INF 205, SR 4.300 starting at 11:30am  
+**Paper to be discussed:** will be announced on 27.10.
 
-**Frame-based Equivariant Diffusion Models for 3D Molecular Generation**  
-*Mohan Guo, Cong Liu, Patrick Forré*  
-https://arxiv.org/abs/2509.19506
+
 
 
 ---
 
 **Recently discussed papers:**
+
+21.10.2025  
+**Frame-based Equivariant Diffusion Models for 3D Molecular Generation**  
+*Mohan Guo, Cong Liu, Patrick Forré*  
+https://arxiv.org/abs/2509.19506
 
 30.09.2025  
 **On Warm-Starting Neural Network Training**  
