@@ -10,7 +10,7 @@ nav:
 ## Winter semester 2025
 
 * Lecture: [Machine Learning and Physics](25w/mlph/)
-
+* Journal Club: [Advanced Machine Learning](journal-club/)
 
 ## Winter semester 2024
 
