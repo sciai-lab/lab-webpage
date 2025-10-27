@@ -116,7 +116,7 @@ IWR is a central institute of our university, and a fantastic place where scient
 
 {% endcapture %}
 
-{% include feature.html image="images/iwr-schematic.svg" link="https://www.iwr.uni-heidelberg.de/home" flip=true title="Home, Sweet Home" text=text %}
+{% include feature.html image="images/iwr-schematic.svg" link="https://www.iwr.uni-heidelberg.de" flip=true title="Home, Sweet Home" text=text %}
 
 
 
