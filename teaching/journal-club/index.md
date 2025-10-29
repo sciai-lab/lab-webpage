@@ -17,16 +17,17 @@ The Journal club takes place every Tueday in INF 205, SR 4.300 at 11.30am and ta
 
 **Contact** Peter Lippmann (peter.lippmann [at] iwr.uni-heidelberg.de) for further details.  
 
-Next Seminar: 28.10.2025 in INF 205, SR 4.300 starting at 11:30am  
-**Paper to be discussed:** 
-
-**UMA: A Family of Universal Models for Atoms**  
-*Brandon M. Wood, Misko Dzamba, Xiang Fu, Meng Gao, Muhammed Shuaibi, et al.*  
-https://arxiv.org/abs/2506.23971
+Next Seminar: 04.11.2025 in INF 205, SR 4.300 starting at 11:30am  
+**Paper to be discussed:** Will be announced on Mo 03.11.2025
 
 ---
 
 **Recently discussed papers:**
+
+28.10.2025  
+**UMA: A Family of Universal Models for Atoms**  
+*Brandon M. Wood, Misko Dzamba, Xiang Fu, Meng Gao, Muhammed Shuaibi, et al.*  
+https://arxiv.org/abs/2506.23971
 
 21.10.2025  
 **Frame-based Equivariant Diffusion Models for 3D Molecular Generation**  
